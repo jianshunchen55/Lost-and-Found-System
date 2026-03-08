@@ -1,0 +1,2 @@
+
+6fc78867644b37e63a4c10878fa5af9f41a82762	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/consolidate","integrity":null,"time":1766995938155,"size":"262","metadata":{"time":1766995938155,"url":"http://registry.npm.taobao.org/consolidate","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/consolidate"},"options":{"compress":true},"status":301}}

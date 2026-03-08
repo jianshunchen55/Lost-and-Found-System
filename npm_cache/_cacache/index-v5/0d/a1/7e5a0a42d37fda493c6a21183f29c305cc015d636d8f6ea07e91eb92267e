@@ -1,0 +1,2 @@
+
+54fd1bd41bd6a2159a1dd71ce3ef307613ee5865	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fast-uri","integrity":null,"time":1768135761223,"size":"262","metadata":{"time":1768135761223,"url":"http://registry.npm.taobao.org/fast-uri","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:21 GMT","location":"https://registry.npmmirror.com/fast-uri"},"options":{"compress":true},"status":301}}

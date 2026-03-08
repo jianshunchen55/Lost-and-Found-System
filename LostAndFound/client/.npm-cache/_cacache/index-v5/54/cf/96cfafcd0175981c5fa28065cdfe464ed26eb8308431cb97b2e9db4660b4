@@ -1,0 +1,2 @@
+
+030baa70bdf17cb3b124b06555b1ecf6f3e67d41	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/retry","integrity":null,"time":1766995947101,"size":"262","metadata":{"time":1766995947100,"url":"http://registry.npm.taobao.org/retry","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:47 GMT","location":"https://registry.npmmirror.com/retry"},"options":{"compress":true},"status":301}}

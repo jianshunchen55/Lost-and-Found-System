@@ -1,0 +1,2 @@
+
+33f6f6da4bc76eb39c39785d4fb118aaaaee13cb	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fs-extra","integrity":null,"time":1766995929102,"size":"262","metadata":{"time":1766995929102,"url":"http://registry.npm.taobao.org/fs-extra","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:29 GMT","location":"https://registry.npmmirror.com/fs-extra"},"options":{"compress":true},"status":301}}

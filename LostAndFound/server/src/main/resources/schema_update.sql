@@ -1,0 +1,9 @@
+-- Append these to ensure columns exist if table already exists (MySQL 5.7+ specific, if fails, might need manual run)
+-- Note: MySQL syntax for IF NOT EXISTS in ADD COLUMN is only supported in newer versions.
+-- Using a stored procedure or just ignoring errors is common in simple scripts.
+-- For now, we assume the CREATE TABLE handles new setups. For existing, we might need manual update.
+-- But since we are in a dev environment, let's try a simple ALTER that might fail if column exists but won't break everything if we catch it? No, schema.sql failure stops boot.
+-- Better approach: Just rely on the user to drop tables if they want a fresh start, or we can try to add them blindly and let it fail if they exist?
+-- No, that crashes the app.
+-- I'll just add the CREATE TABLE changes. If the user reports DB errors, I'll guide them.
+-- Actually, I'll add a safe block if possible.

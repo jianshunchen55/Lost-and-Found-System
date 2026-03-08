@@ -1,0 +1,2 @@
+
+cab1fa69cd26f40aad19b4a241aee2fda8fccdc5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/joi","integrity":null,"time":1766995932737,"size":"262","metadata":{"time":1766995932737,"url":"http://registry.npm.taobao.org/joi","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:32 GMT","location":"https://registry.npmmirror.com/joi"},"options":{"compress":true},"status":301}}

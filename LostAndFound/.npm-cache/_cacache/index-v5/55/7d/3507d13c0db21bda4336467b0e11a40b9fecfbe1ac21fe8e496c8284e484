@@ -1,0 +1,2 @@
+
+7bf6d8ea450e4af5866ae25fb3cd7b9aa4ded7a1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/sqlstring","integrity":null,"time":1767014493967,"size":"262","metadata":{"time":1767014493967,"url":"http://registry.npm.taobao.org/sqlstring","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 13:21:54 GMT","location":"https://registry.npmmirror.com/sqlstring"},"options":{"compress":true},"status":301}}

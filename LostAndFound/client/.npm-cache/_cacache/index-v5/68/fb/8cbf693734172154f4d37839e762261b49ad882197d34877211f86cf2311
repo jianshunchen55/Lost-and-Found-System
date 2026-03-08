@@ -1,0 +1,2 @@
+
+52faa392f237999ce45360b0887c6b3a4159cb60	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@hapi%2fhoek","integrity":null,"time":1766995939479,"size":"262","metadata":{"time":1766995939479,"url":"http://registry.npm.taobao.org/@hapi%2fhoek","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:39 GMT","location":"https://registry.npmmirror.com/@hapi%2fhoek"},"options":{"compress":true},"status":301}}

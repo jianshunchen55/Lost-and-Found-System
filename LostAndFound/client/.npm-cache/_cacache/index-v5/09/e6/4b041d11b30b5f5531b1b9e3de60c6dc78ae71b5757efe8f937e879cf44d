@@ -1,0 +1,2 @@
+
+5ac47bf4c74a21514adbac6516b070dd05866ba1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/es5-ext","integrity":null,"time":1766995940540,"size":"262","metadata":{"time":1766995940540,"url":"http://registry.npm.taobao.org/es5-ext","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/es5-ext"},"options":{"compress":true},"status":301}}

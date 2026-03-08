@@ -1,0 +1,2 @@
+
+004468a15a2e03b7dfa802751d6624750044529b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/denque","integrity":null,"time":1767014493673,"size":"262","metadata":{"time":1767014493673,"url":"http://registry.npm.taobao.org/denque","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 13:21:53 GMT","location":"https://registry.npmmirror.com/denque"},"options":{"compress":true},"status":301}}

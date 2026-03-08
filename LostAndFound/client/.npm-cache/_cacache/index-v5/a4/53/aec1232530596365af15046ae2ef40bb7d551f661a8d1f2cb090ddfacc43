@@ -1,0 +1,2 @@
+
+39713881aa2026a0a24475bdf59bb21b7e7e048e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cli-highlight","integrity":null,"time":1766995928369,"size":"262","metadata":{"time":1766995928369,"url":"http://registry.npm.taobao.org/cli-highlight","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:28 GMT","location":"https://registry.npmmirror.com/cli-highlight"},"options":{"compress":true},"status":301}}

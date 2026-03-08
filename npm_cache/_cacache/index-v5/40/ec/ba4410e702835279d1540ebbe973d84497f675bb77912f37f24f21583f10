@@ -1,0 +1,2 @@
+
+743f9cbe5621e0fdc918df282379fc48f535283e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/uhyphen","integrity":null,"time":1768135759543,"size":"262","metadata":{"time":1768135759543,"url":"http://registry.npm.taobao.org/uhyphen","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:20 GMT","location":"https://registry.npmmirror.com/uhyphen"},"options":{"compress":true},"status":301}}

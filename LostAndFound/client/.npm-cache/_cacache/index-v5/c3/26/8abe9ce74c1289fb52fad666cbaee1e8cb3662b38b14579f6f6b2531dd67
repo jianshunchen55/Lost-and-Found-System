@@ -1,0 +1,2 @@
+
+6ef5891e74fb765b645c765762afb21c62173438	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/callsites","integrity":null,"time":1766995944466,"size":"262","metadata":{"time":1766995944466,"url":"http://registry.npm.taobao.org/callsites","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:44 GMT","location":"https://registry.npmmirror.com/callsites"},"options":{"compress":true},"status":301}}

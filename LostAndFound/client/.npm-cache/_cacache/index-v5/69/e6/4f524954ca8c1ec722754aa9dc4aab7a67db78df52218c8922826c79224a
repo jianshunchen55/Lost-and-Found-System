@@ -1,0 +1,2 @@
+
+64d99c6cfaacd002533452bd06b0915fb43eb91f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/xml-name-validator","integrity":null,"time":1766995931555,"size":"262","metadata":{"time":1766995931555,"url":"http://registry.npm.taobao.org/xml-name-validator","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:31 GMT","location":"https://registry.npmmirror.com/xml-name-validator"},"options":{"compress":true},"status":301}}

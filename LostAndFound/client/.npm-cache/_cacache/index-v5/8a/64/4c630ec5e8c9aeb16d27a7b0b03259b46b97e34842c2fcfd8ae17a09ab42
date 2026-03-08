@@ -1,0 +1,2 @@
+
+690b0d4ae351fa6d7ee8408ff4c1d4bfeb1797e3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/es6-symbol","integrity":null,"time":1766995942689,"size":"262","metadata":{"time":1766995942689,"url":"http://registry.npm.taobao.org/es6-symbol","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:42 GMT","location":"https://registry.npmmirror.com/es6-symbol"},"options":{"compress":true},"status":301}}

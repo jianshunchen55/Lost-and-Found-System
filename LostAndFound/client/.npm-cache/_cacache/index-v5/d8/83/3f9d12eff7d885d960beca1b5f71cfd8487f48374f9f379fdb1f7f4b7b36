@@ -1,0 +1,2 @@
+
+3b189adf1d0149bf814b1d365d1a5e3d71551c59	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-unicode-supported","integrity":null,"time":1766995939595,"size":"262","metadata":{"time":1766995939595,"url":"http://registry.npm.taobao.org/is-unicode-supported","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:39 GMT","location":"https://registry.npmmirror.com/is-unicode-supported"},"options":{"compress":true},"status":301}}

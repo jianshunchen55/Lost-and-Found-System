@@ -1,0 +1,2 @@
+
+b86b95a5f1e8fd0dbb97d60e5b1f579d2bb8f90b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/router","integrity":null,"time":1768135761211,"size":"262","metadata":{"time":1768135761211,"url":"http://registry.npm.taobao.org/router","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:21 GMT","location":"https://registry.npmmirror.com/router"},"options":{"compress":true},"status":301}}

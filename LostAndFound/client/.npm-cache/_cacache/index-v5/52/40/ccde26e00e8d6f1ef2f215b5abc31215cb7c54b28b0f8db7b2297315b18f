@@ -1,0 +1,2 @@
+
+428dc87a9afbce9240a7ca47f0abd5b30048cad0	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ts-loader","integrity":null,"time":1766995930351,"size":"262","metadata":{"time":1766995930351,"url":"http://registry.npm.taobao.org/ts-loader","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:30 GMT","location":"https://registry.npmmirror.com/ts-loader"},"options":{"compress":true},"status":301}}

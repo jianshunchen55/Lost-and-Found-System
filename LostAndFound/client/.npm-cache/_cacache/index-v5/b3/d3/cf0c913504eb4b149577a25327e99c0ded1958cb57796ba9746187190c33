@@ -1,0 +1,2 @@
+
+6a6425a5c2f3a615378a6ff7ebb5a74203b6d6f2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fastq","integrity":null,"time":1766995942191,"size":"262","metadata":{"time":1766995942191,"url":"http://registry.npm.taobao.org/fastq","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:42 GMT","location":"https://registry.npmmirror.com/fastq"},"options":{"compress":true},"status":301}}

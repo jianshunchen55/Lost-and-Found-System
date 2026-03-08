@@ -1,0 +1,2 @@
+
+92f50e0f4931779ac0c07adb90cad6183ba8739b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/launch-editor-middleware","integrity":null,"time":1766995929300,"size":"262","metadata":{"time":1766995929300,"url":"http://registry.npm.taobao.org/launch-editor-middleware","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:29 GMT","location":"https://registry.npmmirror.com/launch-editor-middleware"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+bb0e9478578c773929ed1b17d18df55fb020ef2b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/deep-is","integrity":null,"time":1766995942318,"size":"262","metadata":{"time":1766995942318,"url":"http://registry.npm.taobao.org/deep-is","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:42 GMT","location":"https://registry.npmmirror.com/deep-is"},"options":{"compress":true},"status":301}}

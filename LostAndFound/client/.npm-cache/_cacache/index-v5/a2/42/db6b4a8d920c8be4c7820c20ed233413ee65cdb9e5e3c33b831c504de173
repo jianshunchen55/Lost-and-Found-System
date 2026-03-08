@@ -1,0 +1,2 @@
+
+a9a5c61f6911f7801da860efed00c7aa61bfffbc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/namespace-emitter","integrity":null,"time":1766995940059,"size":"262","metadata":{"time":1766995940059,"url":"http://registry.npm.taobao.org/namespace-emitter","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/namespace-emitter"},"options":{"compress":true},"status":301}}

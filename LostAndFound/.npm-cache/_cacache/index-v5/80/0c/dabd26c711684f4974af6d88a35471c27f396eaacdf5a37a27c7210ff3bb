@@ -1,0 +1,2 @@
+
+2b2a69c65365de3b68171396f250f1a8917dff0b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/aws-ssl-profiles","integrity":null,"time":1767014493673,"size":"262","metadata":{"time":1767014493673,"url":"http://registry.npm.taobao.org/aws-ssl-profiles","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 13:21:53 GMT","location":"https://registry.npmmirror.com/aws-ssl-profiles"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+8c5bcf09eb36921a19c6f848211426a7c340b8f1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/nth-check","integrity":null,"time":1768135762279,"size":"262","metadata":{"time":1768135762279,"url":"http://registry.npm.taobao.org/nth-check","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:22 GMT","location":"https://registry.npmmirror.com/nth-check"},"options":{"compress":true},"status":301}}

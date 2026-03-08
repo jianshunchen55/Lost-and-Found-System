@@ -1,0 +1,2 @@
+
+fe22c47484e1b5b473b037976fe539f53d75becc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/css-select","integrity":null,"time":1766995945137,"size":"262","metadata":{"time":1766995945137,"url":"http://registry.npm.taobao.org/css-select","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:45 GMT","location":"https://registry.npmmirror.com/css-select"},"options":{"compress":true},"status":301}}

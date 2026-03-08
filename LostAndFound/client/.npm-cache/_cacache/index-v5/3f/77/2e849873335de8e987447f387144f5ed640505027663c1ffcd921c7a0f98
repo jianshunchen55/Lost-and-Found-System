@@ -1,0 +1,2 @@
+
+70aaed61777af188ccbc82e8758d93a53bb10e5a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@trysound%2fsax","integrity":null,"time":1766995945134,"size":"262","metadata":{"time":1766995945134,"url":"http://registry.npm.taobao.org/@trysound%2fsax","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:45 GMT","location":"https://registry.npmmirror.com/@trysound%2fsax"},"options":{"compress":true},"status":301}}

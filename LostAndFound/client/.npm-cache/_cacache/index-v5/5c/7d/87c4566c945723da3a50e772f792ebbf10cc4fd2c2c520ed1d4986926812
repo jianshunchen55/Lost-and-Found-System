@@ -1,0 +1,2 @@
+
+83f4434e8c8d75009467f5712170ee86ebf07eff	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/detect-node","integrity":null,"time":1766995947951,"size":"262","metadata":{"time":1766995947951,"url":"http://registry.npm.taobao.org/detect-node","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:48 GMT","location":"https://registry.npmmirror.com/detect-node"},"options":{"compress":true},"status":301}}

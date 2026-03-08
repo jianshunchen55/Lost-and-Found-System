@@ -1,0 +1,2 @@
+
+285e9cb4a0a0080576d956011cb6d513fbe51336	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/wrap-ansi","integrity":null,"time":1766995938306,"size":"262","metadata":{"time":1766995938306,"url":"http://registry.npm.taobao.org/wrap-ansi","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/wrap-ansi"},"options":{"compress":true},"status":301}}

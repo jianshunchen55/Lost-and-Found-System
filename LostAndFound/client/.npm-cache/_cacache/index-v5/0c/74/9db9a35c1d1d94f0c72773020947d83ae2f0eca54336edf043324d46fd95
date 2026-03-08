@@ -1,0 +1,2 @@
+
+a4ffb55e9ffc7bc34d80d2fa7d00b5a4e6f6a82d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/spdy-transport","integrity":null,"time":1766995947186,"size":"262","metadata":{"time":1766995947186,"url":"http://registry.npm.taobao.org/spdy-transport","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:47 GMT","location":"https://registry.npmmirror.com/spdy-transport"},"options":{"compress":true},"status":301}}

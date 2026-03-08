@@ -1,0 +1,2 @@
+
+c4c20a488e51e3105a7fb75caf238ec1b8e16caa	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/snabbdom","integrity":null,"time":1766995931133,"size":"262","metadata":{"time":1766995931133,"url":"http://registry.npm.taobao.org/snabbdom","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:31 GMT","location":"https://registry.npmmirror.com/snabbdom"},"options":{"compress":true},"status":301}}

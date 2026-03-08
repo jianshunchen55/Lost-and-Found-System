@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" modified="2024-05-23T00:00:00.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="abcdefg" version="24.4.0" type="device">
+  <diagram id="diagram_1" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="失物招领系统 - 实体属性图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="entity_users" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="340.0" y="420.0" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="attr_users_id" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570.0" y="430.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="620.0" y="450.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_users_username" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540.5255888325765" y="520.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_username" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_username">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="590.5255888325765" y="540.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_users_email" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460.0" y="585.884572681199" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_email" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_email">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="510.0" y="605.884572681199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_users_password_hash" value="密码哈希" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350.0" y="610.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_password_hash" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_password_hash">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="400.0" y="630.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_users_enabled" value="是否启用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240.00000000000006" y="585.884572681199" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_enabled" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_enabled">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="290.00000000000006" y="605.884572681199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_users_audited" value="是否审核" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159.47441116742348" y="520.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_audited" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_audited">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="209.47441116742348" y="540.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_users_created_at" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130.0" y="430.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_created_at" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_created_at">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="180.0" y="450.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_users_nickname" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159.47441116742345" y="340.00000000000006" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_nickname" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_nickname">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="209.47441116742345" y="360.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_users_department" value="部门" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239.9999999999999" y="274.11542731880104" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_department" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_department">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="289.9999999999999" y="294.11542731880104" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_users_phone" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349.99999999999994" y="250.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_phone" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_phone">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="399.99999999999994" y="270.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_users_avatar" value="头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460.0" y="274.11542731880104" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_avatar" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_avatar">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="510.0" y="294.11542731880104" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_users_bio" value="简介" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540.5255888325764" y="339.9999999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_bio" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_users" target="attr_users_bio">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="590.5255888325764" y="359.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="entity_roles" value="角色" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1040.0" y="420.0" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="attr_roles_id" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270.0" y="430.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_roles_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_roles" target="attr_roles_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="1320.0" y="450.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_roles_code" value="代码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940.0" y="585.884572681199" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_roles_code" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_roles" target="attr_roles_code">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="990.0" y="605.884572681199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_roles_name" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="939.9999999999999" y="274.11542731880104" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_roles_name" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_roles" target="attr_roles_name">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="989.9999999999999" y="294.11542731880104" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="entity_user_roles" value="用户角色" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1740.0" y="420.0" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="attr_user_roles_user_id" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970.0" y="430.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_user_roles_user_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_user_roles" target="attr_user_roles_user_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="2020.0" y="450.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_user_roles_role_id" value="角色ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530.0" y="430.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_user_roles_role_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_user_roles" target="attr_user_roles_role_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="450.0" as="sourcePoint" />
+            <mxPoint x="1580.0" y="450.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="entity_lost_item" value="寻物启事" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="340.0" y="1120.0" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="attr_lost_item_id" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570.0" y="1130.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="620.0" y="1150.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_title" value="标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560.2260172729509" y="1183.0559313939627" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_title" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_title">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="610.2260172729509" y="1203.0559313939627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_category" value="分类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531.7725303495189" y="1231.397610451452" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_category" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_category">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="581.7725303495189" y="1251.397610451452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_description" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487.1677564089214" y="1270.7296668442455" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_description" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_description">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="537.1677564089214" y="1290.7296668442455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_location" value="地点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430.3750253606069" y="1297.5572747559568" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_location" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_location">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="480.3750253606069" y="1317.5572747559568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_latitude" value="纬度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366.44062058901335" y="1309.4966834926124" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_latitude" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_latitude">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="416.44062058901335" y="1329.4966834926124" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_longitude" value="经度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301.04539452961086" y="1305.4870241927283" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_longitude" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_longitude">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="351.04539452961086" y="1325.4870241927283" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_image_url" value="图片链接" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240.00000000000006" y="1285.884572681199" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_image_url" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_image_url">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="290.00000000000006" y="1305.884572681199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_thumbnail_url" value="缩略图链接" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188.7285881974382" y="1252.4310927987656" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_thumbnail_url" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_thumbnail_url">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="238.7285881974382" y="1272.4310927987656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_status" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151.78684906146782" y="1208.0990730411604" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_status" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_status">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="201.78684906146782" y="1228.0990730411604" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_user_id" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132.45721823047174" y="1156.8276079117115" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_user_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_user_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="182.45721823047174" y="1176.8276079117115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_created_at" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132.4572182304717" y="1103.1723920882887" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_created_at" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_created_at">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="182.4572182304717" y="1123.1723920882887" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_updated_at" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151.7868490614678" y="1051.9009269588396" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_updated_at" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_updated_at">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="201.7868490614678" y="1071.9009269588396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_lost_time" value="丢失时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188.72858819743823" y="1007.5689072012344" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_lost_time" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_lost_time">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="238.72858819743823" y="1027.5689072012344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_point_id" value="地图点ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239.9999999999999" y="974.115427318801" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_point_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_point_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="289.9999999999999" y="994.115427318801" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_contact" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301.0453945296108" y="954.5129758072717" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_contact" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_contact">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="351.0453945296108" y="974.5129758072717" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_images" value="多图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366.44062058901335" y="950.5033165073876" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_images" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_images">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="416.44062058901335" y="970.5033165073876" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_audit_status" value="审核状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430.37502536060697" y="962.4427252440432" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_audit_status" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_audit_status">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="480.37502536060697" y="982.4427252440432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_claim_status" value="认领状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487.1677564089214" y="989.2703331557547" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_claim_status" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_claim_status">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="537.1677564089214" y="1009.2703331557547" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_claim_user_id" value="认领用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531.7725303495188" y="1028.602389548548" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_claim_user_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_claim_user_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="581.7725303495188" y="1048.602389548548" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_lost_item_claim_time" value="认领时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560.2260172729509" y="1076.944068606037" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_lost_item_claim_time" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_lost_item" target="attr_lost_item_claim_time">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="610.2260172729509" y="1096.944068606037" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="entity_found_item" value="失物招领" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1040.0" y="1120.0" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="attr_found_item_id" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270.0" y="1130.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1320.0" y="1150.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_title" value="标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260.226017272951" y="1183.0559313939627" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_title" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_title">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1310.226017272951" y="1203.0559313939627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_category" value="分类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1231.772530349519" y="1231.397610451452" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_category" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_category">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1281.772530349519" y="1251.397610451452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_description" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1187.1677564089214" y="1270.7296668442455" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_description" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_description">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1237.1677564089214" y="1290.7296668442455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_location" value="地点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130.375025360607" y="1297.5572747559568" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_location" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_location">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1180.375025360607" y="1317.5572747559568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_latitude" value="纬度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1066.4406205890134" y="1309.4966834926124" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_latitude" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_latitude">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1116.4406205890134" y="1329.4966834926124" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_longitude" value="经度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1001.0453945296108" y="1305.4870241927283" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_longitude" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_longitude">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1051.0453945296108" y="1325.4870241927283" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_image_url" value="图片链接" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940.0" y="1285.884572681199" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_image_url" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_image_url">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="990.0" y="1305.884572681199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_thumbnail_url" value="缩略图链接" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="888.7285881974382" y="1252.4310927987656" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_thumbnail_url" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_thumbnail_url">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="938.7285881974382" y="1272.4310927987656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_status" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="851.7868490614678" y="1208.0990730411604" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_status" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_status">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="901.7868490614678" y="1228.0990730411604" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_user_id" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="832.4572182304718" y="1156.8276079117115" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_user_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_user_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="882.4572182304718" y="1176.8276079117115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_created_at" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="832.4572182304717" y="1103.1723920882887" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_created_at" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_created_at">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="882.4572182304717" y="1123.1723920882887" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_updated_at" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="851.7868490614678" y="1051.9009269588396" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_updated_at" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_updated_at">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="901.7868490614678" y="1071.9009269588396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_found_time" value="拾获时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="888.7285881974383" y="1007.5689072012344" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_found_time" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_found_time">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="938.7285881974383" y="1027.5689072012344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_point_id" value="地图点ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="939.9999999999999" y="974.115427318801" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_point_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_point_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="989.9999999999999" y="994.115427318801" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_contact" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1001.0453945296108" y="954.5129758072717" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_contact" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_contact">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1051.0453945296108" y="974.5129758072717" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_images" value="多图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1066.4406205890134" y="950.5033165073876" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_images" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_images">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1116.4406205890134" y="970.5033165073876" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_audit_status" value="审核状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130.375025360607" y="962.4427252440432" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_audit_status" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_audit_status">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1180.375025360607" y="982.4427252440432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_claim_status" value="认领状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1187.1677564089214" y="989.2703331557547" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_claim_status" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_claim_status">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1237.1677564089214" y="1009.2703331557547" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_claim_user_id" value="认领用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1231.7725303495188" y="1028.602389548548" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_claim_user_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_claim_user_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1281.7725303495188" y="1048.602389548548" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_found_item_claim_time" value="认领时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260.226017272951" y="1076.944068606037" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_found_item_claim_time" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_found_item" target="attr_found_item_claim_time">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1310.226017272951" y="1096.944068606037" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="entity_message" value="消息通知" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1740.0" y="1120.0" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="attr_message_id" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970.0" y="1130.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_message_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_message" target="attr_message_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="2020.0" y="1150.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_message_user_id" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1905.5634918610403" y="1257.2792206135787" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_message_user_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_message" target="attr_message_user_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1955.5634918610403" y="1277.2792206135787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_message_title" value="标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750.0" y="1310.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_message_title" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_message" target="attr_message_title">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1800.0" y="1330.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_message_content" value="内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1594.4365081389597" y="1257.2792206135787" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_message_content" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_message" target="attr_message_content">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1644.4365081389597" y="1277.2792206135787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_message_type" value="类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530.0" y="1130.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_message_type" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_message" target="attr_message_type">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1580.0" y="1150.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_message_is_read" value="是否已读" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1594.4365081389594" y="1002.7207793864214" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_message_is_read" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_message" target="attr_message_is_read">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1644.4365081389594" y="1022.7207793864214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_message_related_id" value="关联ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750.0" y="950.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_message_related_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_message" target="attr_message_related_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1800.0" y="970.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_message_created_at" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1905.5634918610403" y="1002.7207793864214" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_message_created_at" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_message" target="attr_message_created_at">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="1150.0" as="sourcePoint" />
+            <mxPoint x="1955.5634918610403" y="1022.7207793864214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="entity_map_point" value="地图点位" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="340.0" y="1820.0" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="attr_map_point_id" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570.0" y="1830.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_map_point_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_map_point" target="attr_map_point_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="620.0" y="1850.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_map_point_name" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="417.98373876248843" y="2001.1901729331275" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_map_point_name" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_map_point" target="attr_map_point_name">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="467.98373876248843" y="2021.1901729331275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_map_point_latitude" value="纬度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172.01626123751157" y="1935.801345412645" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_map_point_latitude" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_map_point" target="attr_map_point_latitude">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="222.01626123751157" y="1955.801345412645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_map_point_longitude" value="经度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172.01626123751157" y="1724.198654587355" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_map_point_longitude" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_map_point" target="attr_map_point_longitude">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="222.01626123751157" y="1744.198654587355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_map_point_description" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="417.9837387624884" y="1658.8098270668725" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_map_point_description" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_map_point" target="attr_map_point_description">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="467.9837387624884" y="1678.8098270668725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="entity_notice" value="公告" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1040.0" y="1820.0" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="attr_notice_id" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270.0" y="1830.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_notice_id" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_notice" target="attr_notice_id">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="1320.0" y="1850.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_notice_title" value="标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1117.9837387624884" y="2001.1901729331275" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_notice_title" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_notice" target="attr_notice_title">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="1167.9837387624884" y="2021.1901729331275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_notice_content" value="内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872.0162612375116" y="1935.801345412645" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_notice_content" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_notice" target="attr_notice_content">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="922.0162612375116" y="1955.801345412645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_notice_updated_at" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872.0162612375116" y="1724.198654587355" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_notice_updated_at" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_notice" target="attr_notice_updated_at">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="922.0162612375116" y="1744.198654587355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_notice_image_url" value="图片链接" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1117.9837387624884" y="1658.8098270668725" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_notice_image_url" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_notice" target="attr_notice_image_url">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="1167.9837387624884" y="1678.8098270668725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="entity_sys_config" value="系统配置" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1740.0" y="1820.0" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="attr_sys_config_cfg_key" value="配置键" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970.0" y="1830.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_sys_config_cfg_key" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_sys_config" target="attr_sys_config_cfg_key">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="2020.0" y="1850.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="attr_sys_config_cfg_value" value="配置值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530.0" y="1830.0" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_sys_config_cfg_value" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="entity_sys_config" target="attr_sys_config_cfg_value">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.0" y="1850.0" as="sourcePoint" />
+            <mxPoint x="1580.0" y="1850.0" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

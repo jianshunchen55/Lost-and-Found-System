@@ -1,0 +1,2 @@
+
+5d7ec5072678c1b41730f28e49d72baa489913a3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/preact","integrity":null,"time":1766995940060,"size":"262","metadata":{"time":1766995940060,"url":"http://registry.npm.taobao.org/preact","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/preact"},"options":{"compress":true},"status":301}}

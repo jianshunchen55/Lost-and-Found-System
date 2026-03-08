@@ -1,0 +1,2 @@
+
+055efcfa97b4ed0a438afd9f2208f95b28f7915c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2feslint","integrity":null,"time":1766995946230,"size":"262","metadata":{"time":1766995946230,"url":"http://registry.npm.taobao.org/@types%2feslint","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:46 GMT","location":"https://registry.npmmirror.com/@types%2feslint"},"options":{"compress":true},"status":301}}

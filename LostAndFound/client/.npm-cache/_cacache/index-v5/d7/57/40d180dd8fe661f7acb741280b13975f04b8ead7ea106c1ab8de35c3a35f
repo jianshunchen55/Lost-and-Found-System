@@ -1,0 +1,2 @@
+
+67f68317c12583b950eaef8ee91e82f248bad30c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/pseudomap","integrity":null,"time":1766995939852,"size":"262","metadata":{"time":1766995939852,"url":"http://registry.npm.taobao.org/pseudomap","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/pseudomap"},"options":{"compress":true},"status":301}}

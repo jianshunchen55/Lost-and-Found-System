@@ -1,0 +1,2 @@
+
+d27fc20f628f3d8e822ef0fa7d26181903e9b57f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/readdirp","integrity":null,"time":1766995943067,"size":"262","metadata":{"time":1766995943067,"url":"http://registry.npm.taobao.org/readdirp","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:43 GMT","location":"https://registry.npmmirror.com/readdirp"},"options":{"compress":true},"status":301}}

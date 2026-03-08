@@ -1,0 +1,2 @@
+
+ae8199918fcec56c192974d58f0948cfd52b881c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/json-stable-stringify-without-jsonify","integrity":null,"time":1766995925963,"size":"262","metadata":{"time":1766995925963,"url":"http://registry.npm.taobao.org/json-stable-stringify-without-jsonify","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:26 GMT","location":"https://registry.npmmirror.com/json-stable-stringify-without-jsonify"},"options":{"compress":true},"status":301}}

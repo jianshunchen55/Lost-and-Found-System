@@ -1,0 +1,2 @@
+
+492071e77184ad548952ac0a73848523d4a580d6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/domelementtype","integrity":null,"time":1768135762280,"size":"262","metadata":{"time":1768135762280,"url":"http://registry.npm.taobao.org/domelementtype","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:22 GMT","location":"https://registry.npmmirror.com/domelementtype"},"options":{"compress":true},"status":301}}

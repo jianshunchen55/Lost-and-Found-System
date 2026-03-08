@@ -1,0 +1,2 @@
+
+438d029f1dfd6e150ef8da38acfd608c3c068cd1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/portfinder","integrity":null,"time":1766995929614,"size":"262","metadata":{"time":1766995929614,"url":"http://registry.npm.taobao.org/portfinder","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:29 GMT","location":"https://registry.npmmirror.com/portfinder"},"options":{"compress":true},"status":301}}

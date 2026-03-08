@@ -1,0 +1,2 @@
+
+8afbc84ed707872fb2101903976628ecd016b00e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/webpack-dev-server","integrity":null,"time":1766995930087,"size":"262","metadata":{"time":1766995930087,"url":"http://registry.npm.taobao.org/webpack-dev-server","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:30 GMT","location":"https://registry.npmmirror.com/webpack-dev-server"},"options":{"compress":true},"status":301}}

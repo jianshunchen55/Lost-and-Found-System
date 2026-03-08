@@ -1,0 +1,2 @@
+
+e9f370778fc90557bc43725a84b17058f1ce6a14	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@transloadit%2fprettier-bytes","integrity":null,"time":1766995940057,"size":"262","metadata":{"time":1766995940057,"url":"http://registry.npm.taobao.org/@transloadit%2fprettier-bytes","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/@transloadit%2fprettier-bytes"},"options":{"compress":true},"status":301}}

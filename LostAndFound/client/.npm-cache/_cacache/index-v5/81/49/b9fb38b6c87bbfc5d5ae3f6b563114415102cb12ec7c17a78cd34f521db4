@@ -1,0 +1,2 @@
+
+cbd6508d45443c5953932587d0bc6de328468673	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@wangeditor%2fcore","integrity":null,"time":1766995930761,"size":"262","metadata":{"time":1766995930760,"url":"http://registry.npm.taobao.org/@wangeditor%2fcore","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:30 GMT","location":"https://registry.npmmirror.com/@wangeditor%2fcore"},"options":{"compress":true},"status":301}}

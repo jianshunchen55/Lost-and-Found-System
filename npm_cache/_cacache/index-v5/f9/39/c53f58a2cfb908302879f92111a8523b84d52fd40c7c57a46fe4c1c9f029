@@ -1,0 +1,2 @@
+
+fc98ede0e040465a2b22440274a0dd3fc3f66194	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/wsl-utils","integrity":null,"time":1768135759729,"size":"262","metadata":{"time":1768135759729,"url":"http://registry.npm.taobao.org/wsl-utils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:20 GMT","location":"https://registry.npmmirror.com/wsl-utils"},"options":{"compress":true},"status":301}}

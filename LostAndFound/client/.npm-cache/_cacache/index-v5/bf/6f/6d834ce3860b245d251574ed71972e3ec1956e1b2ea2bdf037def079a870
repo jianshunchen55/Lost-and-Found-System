@@ -1,0 +1,2 @@
+
+5d5d4020749995f7da517ba03c459b237bdb715d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/parse5","integrity":null,"time":1766995938288,"size":"262","metadata":{"time":1766995938288,"url":"http://registry.npm.taobao.org/parse5","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/parse5"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+4f6165b68fa993c06da9a734f3eaecab181abb55	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/side-channel","integrity":null,"time":1768135761632,"size":"262","metadata":{"time":1768135761632,"url":"http://registry.npm.taobao.org/side-channel","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:22 GMT","location":"https://registry.npmmirror.com/side-channel"},"options":{"compress":true},"status":301}}

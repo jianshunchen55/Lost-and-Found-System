@@ -1,0 +1,2 @@
+
+701c89f5b5a148483884eeb30a1176e92ec0bfd8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-promise","integrity":null,"time":1768135761631,"size":"262","metadata":{"time":1768135761631,"url":"http://registry.npm.taobao.org/is-promise","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:22 GMT","location":"https://registry.npmmirror.com/is-promise"},"options":{"compress":true},"status":301}}

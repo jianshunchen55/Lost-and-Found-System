@@ -1,0 +1,2 @@
+
+72176cc817ab19908355f09f0043124b889efebe	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/mime-match","integrity":null,"time":1766995940057,"size":"262","metadata":{"time":1766995940057,"url":"http://registry.npm.taobao.org/mime-match","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/mime-match"},"options":{"compress":true},"status":301}}

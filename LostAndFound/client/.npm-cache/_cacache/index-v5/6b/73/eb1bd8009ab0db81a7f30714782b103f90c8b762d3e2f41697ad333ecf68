@@ -1,0 +1,2 @@
+
+51ef22a3ec13f94fa72109dac0a970eade063181	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@vue%2fcomponent-compiler-utils","integrity":null,"time":1766995927402,"size":"262","metadata":{"time":1766995927402,"url":"http://registry.npm.taobao.org/@vue%2fcomponent-compiler-utils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:27 GMT","location":"https://registry.npmmirror.com/@vue%2fcomponent-compiler-utils"},"options":{"compress":true},"status":301}}

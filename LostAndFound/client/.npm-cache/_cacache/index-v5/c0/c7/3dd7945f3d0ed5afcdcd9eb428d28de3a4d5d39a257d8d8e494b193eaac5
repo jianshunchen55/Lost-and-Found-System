@@ -1,0 +1,2 @@
+
+002d8808dffcadf1ec826c83d6fb160471b2353a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@uppy%2fstore-default","integrity":null,"time":1766995940056,"size":"262","metadata":{"time":1766995940056,"url":"http://registry.npm.taobao.org/@uppy%2fstore-default","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/@uppy%2fstore-default"},"options":{"compress":true},"status":301}}

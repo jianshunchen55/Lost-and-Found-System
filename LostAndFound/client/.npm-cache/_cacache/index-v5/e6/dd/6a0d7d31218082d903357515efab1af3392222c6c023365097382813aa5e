@@ -1,0 +1,2 @@
+
+c4986ac7f91c19d71970af0a78da2446790d2117	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/normalize-wheel-es","integrity":null,"time":1766995931363,"size":"262","metadata":{"time":1766995931363,"url":"http://registry.npm.taobao.org/normalize-wheel-es","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:31 GMT","location":"https://registry.npmmirror.com/normalize-wheel-es"},"options":{"compress":true},"status":301}}

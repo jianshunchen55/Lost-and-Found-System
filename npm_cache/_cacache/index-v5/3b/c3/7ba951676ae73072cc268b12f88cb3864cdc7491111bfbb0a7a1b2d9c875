@@ -1,0 +1,2 @@
+
+af4ac04c138d5c5eb132ecca4ec76ddd51f0f301	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/shebang-regex","integrity":null,"time":1768135761543,"size":"262","metadata":{"time":1768135761543,"url":"http://registry.npm.taobao.org/shebang-regex","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:22 GMT","location":"https://registry.npmmirror.com/shebang-regex"},"options":{"compress":true},"status":301}}

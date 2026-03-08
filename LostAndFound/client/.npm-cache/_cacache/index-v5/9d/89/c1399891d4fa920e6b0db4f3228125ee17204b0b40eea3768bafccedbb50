@@ -1,0 +1,2 @@
+
+abf80dde6d00631cb078e15bc3a1c94cfa037a71	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-minify-params","integrity":null,"time":1766995941408,"size":"262","metadata":{"time":1766995941408,"url":"http://registry.npm.taobao.org/postcss-minify-params","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:41 GMT","location":"https://registry.npmmirror.com/postcss-minify-params"},"options":{"compress":true},"status":301}}

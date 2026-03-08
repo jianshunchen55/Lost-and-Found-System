@@ -1,0 +1,2 @@
+
+ac8519f958ad8f942b1ac6b18345ba85b9fdef19	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/regjsgen","integrity":null,"time":1766995936548,"size":"262","metadata":{"time":1766995936548,"url":"http://registry.npm.taobao.org/regjsgen","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:36 GMT","location":"https://registry.npmmirror.com/regjsgen"},"options":{"compress":true},"status":301}}

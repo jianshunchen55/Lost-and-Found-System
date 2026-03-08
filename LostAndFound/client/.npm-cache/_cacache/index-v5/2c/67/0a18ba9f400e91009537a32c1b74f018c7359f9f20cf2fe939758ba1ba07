@@ -1,0 +1,2 @@
+
+d30d78a2a266729bb696dc91ee2c1b60cf63901d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2faxios","integrity":null,"time":1766995920001,"size":"262","metadata":{"time":1766995920000,"url":"http://registry.npm.taobao.org/@types%2faxios","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:20 GMT","location":"https://registry.npmmirror.com/@types%2faxios"},"options":{"compress":true},"status":301}}

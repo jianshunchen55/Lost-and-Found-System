@@ -1,0 +1,2 @@
+
+a341f13b0d0846fe7ee0f18b8d02c8b349119d1d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ipaddr.js","integrity":null,"time":1766995939049,"size":"262","metadata":{"time":1766995939049,"url":"http://registry.npm.taobao.org/ipaddr.js","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:39 GMT","location":"https://registry.npmmirror.com/ipaddr.js"},"options":{"compress":true},"status":301}}

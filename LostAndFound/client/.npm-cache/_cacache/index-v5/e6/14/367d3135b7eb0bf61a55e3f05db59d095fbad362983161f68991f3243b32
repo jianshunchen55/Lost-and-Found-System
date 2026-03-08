@@ -1,0 +1,2 @@
+
+524ae8847da7dfc38ed86f465519d53991bfd417	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fplugin-transform-spread","integrity":null,"time":1766995935455,"size":"262","metadata":{"time":1766995935455,"url":"http://registry.npm.taobao.org/@babel%2fplugin-transform-spread","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:35 GMT","location":"https://registry.npmmirror.com/@babel%2fplugin-transform-spread"},"options":{"compress":true},"status":301}}

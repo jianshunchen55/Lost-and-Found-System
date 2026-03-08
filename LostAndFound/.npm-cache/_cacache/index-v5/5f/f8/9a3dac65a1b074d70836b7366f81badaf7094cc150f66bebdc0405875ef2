@@ -1,0 +1,2 @@
+
+ba4daf7e095eb13265e16b8b433bf3fb4131309f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/named-placeholders","integrity":null,"time":1767014493719,"size":"262","metadata":{"time":1767014493719,"url":"http://registry.npm.taobao.org/named-placeholders","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 13:21:53 GMT","location":"https://registry.npmmirror.com/named-placeholders"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+b82e05bf2cd000b1c558b9c23e03e4a69247fb3a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/pkg-dir","integrity":null,"time":1766995940770,"size":"262","metadata":{"time":1766995940770,"url":"http://registry.npm.taobao.org/pkg-dir","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/pkg-dir"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+b5dff6f82f02a433ebcaf8d0b4f8cc560eaf7c47	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ora","integrity":null,"time":1766995932736,"size":"262","metadata":{"time":1766995932736,"url":"http://registry.npm.taobao.org/ora","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:32 GMT","location":"https://registry.npmmirror.com/ora"},"options":{"compress":true},"status":301}}

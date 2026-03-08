@@ -1,0 +1,2 @@
+
+184021abe55620f0bd42d4fe9e5d4fc488582e1c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/strip-eof","integrity":null,"time":1766995939478,"size":"262","metadata":{"time":1766995939478,"url":"http://registry.npm.taobao.org/strip-eof","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:39 GMT","location":"https://registry.npmmirror.com/strip-eof"},"options":{"compress":true},"status":301}}

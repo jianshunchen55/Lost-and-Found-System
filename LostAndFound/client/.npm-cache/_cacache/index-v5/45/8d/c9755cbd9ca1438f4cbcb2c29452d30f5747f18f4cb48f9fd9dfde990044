@@ -1,0 +1,2 @@
+
+b85cb209d13714c8895e493918f6d3ea9e7fc67d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/call-bound","integrity":null,"time":1766995940838,"size":"262","metadata":{"time":1766995940838,"url":"http://registry.npm.taobao.org/call-bound","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/call-bound"},"options":{"compress":true},"status":301}}

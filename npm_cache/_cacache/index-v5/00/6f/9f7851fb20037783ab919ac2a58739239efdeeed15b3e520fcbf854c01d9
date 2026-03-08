@@ -1,0 +1,2 @@
+
+1a101d7cbf1bea0a933eafac13bc2d3b88434c48	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jose","integrity":null,"time":1768135759392,"size":"262","metadata":{"time":1768135759392,"url":"http://registry.npm.taobao.org/jose","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:20 GMT","location":"https://registry.npmmirror.com/jose"},"options":{"compress":true},"status":301}}

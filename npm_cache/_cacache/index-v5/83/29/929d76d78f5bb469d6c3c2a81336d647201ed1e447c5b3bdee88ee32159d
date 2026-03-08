@@ -1,0 +1,2 @@
+
+d95b4aa57c55a36a92e9fe2d7db750047001f77e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/side-channel-map","integrity":null,"time":1768135762836,"size":"262","metadata":{"time":1768135762836,"url":"http://registry.npm.taobao.org/side-channel-map","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:23 GMT","location":"https://registry.npmmirror.com/side-channel-map"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+814c48df22d3a4c9c18b280072243f12f7077546	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ts-api-utils","integrity":null,"time":1766995923553,"size":"262","metadata":{"time":1766995923553,"url":"http://registry.npm.taobao.org/ts-api-utils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:23 GMT","location":"https://registry.npmmirror.com/ts-api-utils"},"options":{"compress":true},"status":301}}

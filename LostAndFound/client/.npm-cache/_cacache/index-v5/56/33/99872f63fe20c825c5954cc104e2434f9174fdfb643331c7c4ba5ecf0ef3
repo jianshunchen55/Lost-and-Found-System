@@ -1,0 +1,2 @@
+
+9f4f21a4a63bcbd5b8e4983041cc1b590a87a34d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/yallist","integrity":null,"time":1766995933885,"size":"262","metadata":{"time":1766995933885,"url":"http://registry.npm.taobao.org/yallist","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:34 GMT","location":"https://registry.npmmirror.com/yallist"},"options":{"compress":true},"status":301}}

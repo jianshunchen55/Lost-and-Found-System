@@ -1,0 +1,2 @@
+
+d2b95b58e18d90eaf26b31e71663b2b2ac902271	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ee-first","integrity":null,"time":1766995947555,"size":"262","metadata":{"time":1766995947555,"url":"http://registry.npm.taobao.org/ee-first","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:47 GMT","location":"https://registry.npmmirror.com/ee-first"},"options":{"compress":true},"status":301}}

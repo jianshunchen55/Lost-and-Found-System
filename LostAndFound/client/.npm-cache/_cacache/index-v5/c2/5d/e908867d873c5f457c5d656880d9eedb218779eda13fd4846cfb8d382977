@@ -1,0 +1,2 @@
+
+b5955065928e6e21132274b672ae9e9f1e976b3c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/mdn-data","integrity":null,"time":1766995945744,"size":"262","metadata":{"time":1766995945744,"url":"http://registry.npm.taobao.org/mdn-data","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:45 GMT","location":"https://registry.npmmirror.com/mdn-data"},"options":{"compress":true},"status":301}}

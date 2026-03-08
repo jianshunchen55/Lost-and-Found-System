@@ -1,0 +1,2 @@
+
+562508eedd2692f39bc7671be7d3798299fbe444	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/html-escaper","integrity":null,"time":1766995938785,"size":"262","metadata":{"time":1766995938785,"url":"http://registry.npm.taobao.org/html-escaper","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/html-escaper"},"options":{"compress":true},"status":301}}

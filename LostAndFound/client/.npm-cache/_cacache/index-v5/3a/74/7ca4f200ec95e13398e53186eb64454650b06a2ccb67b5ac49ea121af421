@@ -1,0 +1,2 @@
+
+329a81365931dc12f279480300b4045f2e141422	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@vueuse%2fshared","integrity":null,"time":1766995941931,"size":"262","metadata":{"time":1766995941931,"url":"http://registry.npm.taobao.org/@vueuse%2fshared","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:42 GMT","location":"https://registry.npmmirror.com/@vueuse%2fshared"},"options":{"compress":true},"status":301}}

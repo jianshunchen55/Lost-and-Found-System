@@ -1,0 +1,2 @@
+
+8a00850e20cadc051d544680dc5076b0e8bdb61a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/select-hose","integrity":null,"time":1766995947180,"size":"262","metadata":{"time":1766995947180,"url":"http://registry.npm.taobao.org/select-hose","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:47 GMT","location":"https://registry.npmmirror.com/select-hose"},"options":{"compress":true},"status":301}}

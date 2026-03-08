@@ -1,0 +1,2 @@
+
+b6ba8f2702139936191c9daa092629e44ca6ac67	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/media-typer","integrity":null,"time":1768135761633,"size":"262","metadata":{"time":1768135761633,"url":"http://registry.npm.taobao.org/media-typer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:22 GMT","location":"https://registry.npmmirror.com/media-typer"},"options":{"compress":true},"status":301}}

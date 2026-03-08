@@ -1,0 +1,2 @@
+
+7dc358075b6c9715342a82eac583ca2d40877589	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/strip-ansi","integrity":null,"time":1766995926112,"size":"262","metadata":{"time":1766995926112,"url":"http://registry.npm.taobao.org/strip-ansi","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:26 GMT","location":"https://registry.npmmirror.com/strip-ansi"},"options":{"compress":true},"status":301}}

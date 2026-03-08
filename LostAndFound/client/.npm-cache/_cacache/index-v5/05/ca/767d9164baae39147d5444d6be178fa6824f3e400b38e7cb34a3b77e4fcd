@@ -1,0 +1,2 @@
+
+6ef593e37924e3bc3859cf6494f691a51df6383b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@vue%2fcomposition-api","integrity":null,"time":1766995942084,"size":"262","metadata":{"time":1766995942084,"url":"http://registry.npm.taobao.org/@vue%2fcomposition-api","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:42 GMT","location":"https://registry.npmmirror.com/@vue%2fcomposition-api"},"options":{"compress":true},"status":301}}

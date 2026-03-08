@@ -1,0 +1,2 @@
+
+b5f6e77736793d02d9ba0578c2ed515ebaa350c7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/param-case","integrity":null,"time":1766995944267,"size":"262","metadata":{"time":1766995944267,"url":"http://registry.npm.taobao.org/param-case","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:44 GMT","location":"https://registry.npmmirror.com/param-case"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+cafb4bb9c208c8d433ee96b50f1fa21e526d76b7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ansi-regex","integrity":null,"time":1766995939327,"size":"262","metadata":{"time":1766995939327,"url":"http://registry.npm.taobao.org/ansi-regex","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:39 GMT","location":"https://registry.npmmirror.com/ansi-regex"},"options":{"compress":true},"status":301}}

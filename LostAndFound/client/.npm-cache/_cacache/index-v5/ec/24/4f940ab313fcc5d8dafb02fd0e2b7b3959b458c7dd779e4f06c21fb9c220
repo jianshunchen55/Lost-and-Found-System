@@ -1,0 +1,2 @@
+
+93759026b1d198f6b2510fcdb256337e87c23dd9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/read-pkg","integrity":null,"time":1766995932737,"size":"262","metadata":{"time":1766995932737,"url":"http://registry.npm.taobao.org/read-pkg","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:32 GMT","location":"https://registry.npmmirror.com/read-pkg"},"options":{"compress":true},"status":301}}

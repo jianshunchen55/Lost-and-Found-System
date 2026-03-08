@@ -1,0 +1,2 @@
+
+e55063dee7a6f6e85dcd7edda000c7e6cd221889	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/node-forge","integrity":null,"time":1766995947113,"size":"262","metadata":{"time":1766995947113,"url":"http://registry.npm.taobao.org/node-forge","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:47 GMT","location":"https://registry.npmmirror.com/node-forge"},"options":{"compress":true},"status":301}}

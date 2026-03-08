@@ -1,0 +1,2 @@
+
+20879e946abf671cc97a87905c29520f01d4dd8e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/iconv-lite","integrity":null,"time":1768135761224,"size":"262","metadata":{"time":1768135761224,"url":"http://registry.npm.taobao.org/iconv-lite","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:21 GMT","location":"https://registry.npmmirror.com/iconv-lite"},"options":{"compress":true},"status":301}}

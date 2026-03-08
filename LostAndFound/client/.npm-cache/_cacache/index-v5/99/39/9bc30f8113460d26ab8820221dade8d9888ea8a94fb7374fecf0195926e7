@@ -1,0 +1,2 @@
+
+a3a7e741ab28d87a8b820096ecbd94bf1e95c6dd	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/es6-iterator","integrity":null,"time":1766995942690,"size":"262","metadata":{"time":1766995942690,"url":"http://registry.npm.taobao.org/es6-iterator","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:42 GMT","location":"https://registry.npmmirror.com/es6-iterator"},"options":{"compress":true},"status":301}}

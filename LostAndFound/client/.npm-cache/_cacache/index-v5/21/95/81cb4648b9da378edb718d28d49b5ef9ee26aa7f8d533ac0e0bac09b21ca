@@ -1,0 +1,2 @@
+
+416373a13e2448cab9e353d0bef162f7ad93f51e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fpreset-env","integrity":null,"time":1766995932535,"size":"262","metadata":{"time":1766995932535,"url":"http://registry.npm.taobao.org/@babel%2fpreset-env","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:32 GMT","location":"https://registry.npmmirror.com/@babel%2fpreset-env"},"options":{"compress":true},"status":301}}

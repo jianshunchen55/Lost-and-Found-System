@@ -1,0 +1,2 @@
+
+dd677bc1adcc1f65b1ae76f7a3524c127c7e5b83	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@leichtgewicht%2fip-codec","integrity":null,"time":1766995947748,"size":"262","metadata":{"time":1766995947748,"url":"http://registry.npm.taobao.org/@leichtgewicht%2fip-codec","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:47 GMT","location":"https://registry.npmmirror.com/@leichtgewicht%2fip-codec"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+567006c548fbc937f64dcf6558658f4207fc5470	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/minimalistic-assert","integrity":null,"time":1766995948014,"size":"262","metadata":{"time":1766995948014,"url":"http://registry.npm.taobao.org/minimalistic-assert","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:48 GMT","location":"https://registry.npmmirror.com/minimalistic-assert"},"options":{"compress":true},"status":301}}

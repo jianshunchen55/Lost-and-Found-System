@@ -1,0 +1,2 @@
+
+2304bcd28b1cb03b004e9beb435494084f01798c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ssri","integrity":null,"time":1766995929698,"size":"262","metadata":{"time":1766995929698,"url":"http://registry.npm.taobao.org/ssri","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:29 GMT","location":"https://registry.npmmirror.com/ssri"},"options":{"compress":true},"status":301}}

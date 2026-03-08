@@ -1,0 +1,2 @@
+
+610084bf87c1386c62e6be82ffcb2be422bdb333	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/dir-glob","integrity":null,"time":1766995932056,"size":"262","metadata":{"time":1766995932056,"url":"http://registry.npm.taobao.org/dir-glob","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:32 GMT","location":"https://registry.npmmirror.com/dir-glob"},"options":{"compress":true},"status":301}}

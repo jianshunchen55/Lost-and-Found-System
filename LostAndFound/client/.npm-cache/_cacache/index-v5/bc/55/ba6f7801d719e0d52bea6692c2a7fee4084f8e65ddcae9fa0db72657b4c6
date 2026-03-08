@@ -1,0 +1,2 @@
+
+274255b9f4800d917df21c63727ad346aee789a6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/file-entry-cache","integrity":null,"time":1766995925075,"size":"262","metadata":{"time":1766995925075,"url":"http://registry.npm.taobao.org/file-entry-cache","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:25 GMT","location":"https://registry.npmmirror.com/file-entry-cache"},"options":{"compress":true},"status":301}}

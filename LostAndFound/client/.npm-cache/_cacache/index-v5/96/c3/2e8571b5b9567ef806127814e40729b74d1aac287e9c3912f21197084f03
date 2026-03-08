@@ -1,0 +1,2 @@
+
+4c274e729e21c84356ba33f33c14806686e8730f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@jridgewell%2fremapping","integrity":null,"time":1766995932263,"size":"262","metadata":{"time":1766995932263,"url":"http://registry.npm.taobao.org/@jridgewell%2fremapping","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:32 GMT","location":"https://registry.npmmirror.com/@jridgewell%2fremapping"},"options":{"compress":true},"status":301}}

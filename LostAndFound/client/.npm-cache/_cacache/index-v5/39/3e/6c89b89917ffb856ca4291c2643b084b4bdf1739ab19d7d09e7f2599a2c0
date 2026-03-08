@@ -1,0 +1,2 @@
+
+0f2e0b1f61e8206728d46734651587ffb17eb1fb	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/axios","integrity":null,"time":1766995916282,"size":"262","metadata":{"time":1766995916282,"url":"http://registry.npm.taobao.org/axios","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:16 GMT","location":"https://registry.npmmirror.com/axios"},"options":{"compress":true},"status":301}}

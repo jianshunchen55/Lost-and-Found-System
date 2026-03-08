@@ -1,0 +1,2 @@
+
+3e4d577ecda499d1e3085b575a41f65d62ac445f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/doctrine","integrity":null,"time":1766995924521,"size":"262","metadata":{"time":1766995924521,"url":"http://registry.npm.taobao.org/doctrine","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:24 GMT","location":"https://registry.npmmirror.com/doctrine"},"options":{"compress":true},"status":301}}

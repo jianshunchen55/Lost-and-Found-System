@@ -1,0 +1,2 @@
+
+a77a529f790a03d2d1f5d848eb00791060926d92	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@modelcontextprotocol%2fsdk","integrity":null,"time":1768135758479,"size":"262","metadata":{"time":1768135758479,"url":"http://registry.npm.taobao.org/@modelcontextprotocol%2fsdk","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:19 GMT","location":"https://registry.npmmirror.com/@modelcontextprotocol%2fsdk"},"options":{"compress":true},"status":301}}

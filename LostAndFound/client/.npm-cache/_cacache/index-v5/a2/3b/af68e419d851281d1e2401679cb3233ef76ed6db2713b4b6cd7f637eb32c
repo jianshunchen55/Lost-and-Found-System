@@ -1,0 +1,2 @@
+
+1830859dd0177cb980a20e40d01c8444df54aa4b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@soda%2fget-current-script","integrity":null,"time":1766995927161,"size":"262","metadata":{"time":1766995927161,"url":"http://registry.npm.taobao.org/@soda%2fget-current-script","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:27 GMT","location":"https://registry.npmmirror.com/@soda%2fget-current-script"},"options":{"compress":true},"status":301}}

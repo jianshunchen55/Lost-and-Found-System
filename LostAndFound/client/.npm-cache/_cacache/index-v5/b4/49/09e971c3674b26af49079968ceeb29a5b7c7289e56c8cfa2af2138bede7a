@@ -1,0 +1,2 @@
+
+aff24db6fecbceb86aa8f1db70c70c156166df11	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/slash","integrity":null,"time":1766995932057,"size":"262","metadata":{"time":1766995932057,"url":"http://registry.npm.taobao.org/slash","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:32 GMT","location":"https://registry.npmmirror.com/slash"},"options":{"compress":true},"status":301}}

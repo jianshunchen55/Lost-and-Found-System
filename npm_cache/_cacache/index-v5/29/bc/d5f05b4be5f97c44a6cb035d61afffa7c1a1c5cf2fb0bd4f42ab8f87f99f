@@ -1,0 +1,2 @@
+
+662fbf190059773986f63ecc6649ef98e2cf05e1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/pkce-challenge","integrity":null,"time":1768135759396,"size":"262","metadata":{"time":1768135759395,"url":"http://registry.npm.taobao.org/pkce-challenge","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:20 GMT","location":"https://registry.npmmirror.com/pkce-challenge"},"options":{"compress":true},"status":301}}

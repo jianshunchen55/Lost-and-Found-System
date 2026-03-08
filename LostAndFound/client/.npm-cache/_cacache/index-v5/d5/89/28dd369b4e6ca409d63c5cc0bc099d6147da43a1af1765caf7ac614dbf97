@@ -1,0 +1,2 @@
+
+8689852bc980f323f4b8ac3245d154a13cf35b8b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/klona","integrity":null,"time":1766995938673,"size":"262","metadata":{"time":1766995938673,"url":"http://registry.npm.taobao.org/klona","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/klona"},"options":{"compress":true},"status":301}}

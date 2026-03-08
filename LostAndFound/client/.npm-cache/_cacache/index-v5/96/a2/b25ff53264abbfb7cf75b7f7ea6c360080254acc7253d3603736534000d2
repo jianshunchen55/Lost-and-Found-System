@@ -1,0 +1,2 @@
+
+c897510bd2db1ecb43e6859f5b16086c2f6ed922	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/get-caller-file","integrity":null,"time":1766995941194,"size":"262","metadata":{"time":1766995941194,"url":"http://registry.npm.taobao.org/get-caller-file","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:41 GMT","location":"https://registry.npmmirror.com/get-caller-file"},"options":{"compress":true},"status":301}}

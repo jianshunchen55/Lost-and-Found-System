@@ -1,0 +1,2 @@
+
+865770ecbb98296e088a2c9c467e96219f4421be	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/require-from-string","integrity":null,"time":1766995948215,"size":"262","metadata":{"time":1766995948214,"url":"http://registry.npm.taobao.org/require-from-string","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:48 GMT","location":"https://registry.npmmirror.com/require-from-string"},"options":{"compress":true},"status":301}}

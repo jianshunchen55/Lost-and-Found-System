@@ -1,0 +1,2 @@
+
+a73198ba2d96105314429ccb36f2c7e17abaa34a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@vue%2fcli-service","integrity":null,"time":1766995916691,"size":"262","metadata":{"time":1766995916691,"url":"http://registry.npm.taobao.org/@vue%2fcli-service","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:16 GMT","location":"https://registry.npmmirror.com/@vue%2fcli-service"},"options":{"compress":true},"status":301}}

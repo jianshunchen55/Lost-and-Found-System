@@ -1,0 +1,2 @@
+
+a41eb14b0fa1aae881b10e204fe863a13a143c00	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/htmlparser2","integrity":null,"time":1766995945249,"size":"262","metadata":{"time":1766995945249,"url":"http://registry.npm.taobao.org/htmlparser2","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:45 GMT","location":"https://registry.npmmirror.com/htmlparser2"},"options":{"compress":true},"status":301}}

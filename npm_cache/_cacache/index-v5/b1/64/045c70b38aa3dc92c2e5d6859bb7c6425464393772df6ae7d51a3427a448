@@ -1,0 +1,2 @@
+
+70480aa2a0cc041fe2b3121c021aa17647bc71ea	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/raw-body","integrity":null,"time":1768135759394,"size":"262","metadata":{"time":1768135759394,"url":"http://registry.npm.taobao.org/raw-body","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:20 GMT","location":"https://registry.npmmirror.com/raw-body"},"options":{"compress":true},"status":301}}

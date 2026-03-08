@@ -1,0 +1,2 @@
+
+5fe8b6d6a5ac495c65d344032493117d8bb67fa4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lodash.clonedeep","integrity":null,"time":1766995930968,"size":"262","metadata":{"time":1766995930968,"url":"http://registry.npm.taobao.org/lodash.clonedeep","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:31 GMT","location":"https://registry.npmmirror.com/lodash.clonedeep"},"options":{"compress":true},"status":301}}

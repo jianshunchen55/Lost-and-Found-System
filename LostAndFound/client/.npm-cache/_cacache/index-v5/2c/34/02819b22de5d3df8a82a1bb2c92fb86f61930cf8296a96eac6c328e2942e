@@ -1,0 +1,2 @@
+
+bb75d6f43bac98f23162bb01a2c7b3350be2df4e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/path-key","integrity":null,"time":1766995942188,"size":"262","metadata":{"time":1766995942188,"url":"http://registry.npm.taobao.org/path-key","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:42 GMT","location":"https://registry.npmmirror.com/path-key"},"options":{"compress":true},"status":301}}

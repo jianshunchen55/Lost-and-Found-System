@@ -1,0 +1,2 @@
+
+10c1740ce242971fe1cbdff7db6111e661f15fc6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jsonfile","integrity":null,"time":1766995938630,"size":"262","metadata":{"time":1766995938630,"url":"http://registry.npm.taobao.org/jsonfile","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/jsonfile"},"options":{"compress":true},"status":301}}

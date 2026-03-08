@@ -1,0 +1,2 @@
+
+5b071407cb5a849e479b9f11361dac54d057d9c1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/http-deceiver","integrity":null,"time":1766995947162,"size":"262","metadata":{"time":1766995947162,"url":"http://registry.npm.taobao.org/http-deceiver","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:47 GMT","location":"https://registry.npmmirror.com/http-deceiver"},"options":{"compress":true},"status":301}}

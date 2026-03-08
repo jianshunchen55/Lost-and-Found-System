@@ -1,0 +1,2 @@
+
+d47bc1e7338832d3a0fe7c5359c97065a46bf41e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/bundle-name","integrity":null,"time":1768135762709,"size":"262","metadata":{"time":1768135762709,"url":"http://registry.npm.taobao.org/bundle-name","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:23 GMT","location":"https://registry.npmmirror.com/bundle-name"},"options":{"compress":true},"status":301}}

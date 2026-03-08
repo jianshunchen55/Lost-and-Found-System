@@ -1,0 +1,2 @@
+
+e2c84058db6fdc1bd58bf0462d81479afffe5a63	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/powershell-utils","integrity":null,"time":1768135759729,"size":"262","metadata":{"time":1768135759729,"url":"http://registry.npm.taobao.org/powershell-utils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:20 GMT","location":"https://registry.npmmirror.com/powershell-utils"},"options":{"compress":true},"status":301}}

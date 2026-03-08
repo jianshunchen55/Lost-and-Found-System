@@ -1,0 +1,2 @@
+
+87cf2bf58ba05d9ff6f3291d79b92f5b394946ff	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/base64-js","integrity":null,"time":1766995944851,"size":"262","metadata":{"time":1766995944851,"url":"http://registry.npm.taobao.org/base64-js","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:45 GMT","location":"https://registry.npmmirror.com/base64-js"},"options":{"compress":true},"status":301}}

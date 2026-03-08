@@ -1,0 +1,2 @@
+
+aef243e2b41e0af5cea7d43f93f9b4895b632c47	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/prismjs","integrity":null,"time":1766995940263,"size":"262","metadata":{"time":1766995940263,"url":"http://registry.npm.taobao.org/prismjs","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/prismjs"},"options":{"compress":true},"status":301}}

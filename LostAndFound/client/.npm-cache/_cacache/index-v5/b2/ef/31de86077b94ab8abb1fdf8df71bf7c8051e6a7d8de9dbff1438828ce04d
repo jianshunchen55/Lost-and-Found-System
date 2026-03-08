@@ -1,0 +1,2 @@
+
+7a648477b58a1ccdc48e48c202f56d5e0235c455	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fsevents","integrity":null,"time":1766995943068,"size":"262","metadata":{"time":1766995943068,"url":"http://registry.npm.taobao.org/fsevents","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:43 GMT","location":"https://registry.npmmirror.com/fsevents"},"options":{"compress":true},"status":301}}

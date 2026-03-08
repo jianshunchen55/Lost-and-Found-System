@@ -1,0 +1,2 @@
+
+93b4eb9f81e81f796c7e344d88f3e8574a8e1ae3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/debounce","integrity":null,"time":1766995938785,"size":"262","metadata":{"time":1766995938785,"url":"http://registry.npm.taobao.org/debounce","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/debounce"},"options":{"compress":true},"status":301}}

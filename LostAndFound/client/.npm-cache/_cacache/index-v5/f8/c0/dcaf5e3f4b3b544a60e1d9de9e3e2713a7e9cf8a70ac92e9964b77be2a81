@@ -1,0 +1,2 @@
+
+a7afd7851e3da8c8fd5eae454bc608fdba6ddf1f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/esniff","integrity":null,"time":1766995942690,"size":"262","metadata":{"time":1766995942690,"url":"http://registry.npm.taobao.org/esniff","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:42 GMT","location":"https://registry.npmmirror.com/esniff"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+3fadd8eff40108ca67a9c6292f5aa4b415d48dc3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/json-parse-even-better-errors","integrity":null,"time":1766995933082,"size":"262","metadata":{"time":1766995933082,"url":"http://registry.npm.taobao.org/json-parse-even-better-errors","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:33 GMT","location":"https://registry.npmmirror.com/json-parse-even-better-errors"},"options":{"compress":true},"status":301}}

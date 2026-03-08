@@ -1,0 +1,2 @@
+
+5c1c704cd5c184f974f251daf6b4905cd4c1310b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/compression","integrity":null,"time":1766995938957,"size":"262","metadata":{"time":1766995938957,"url":"http://registry.npm.taobao.org/compression","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:39 GMT","location":"https://registry.npmmirror.com/compression"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+171e03203503a7bf75d848e97c0533507c0b2c81	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/long","integrity":null,"time":1767014493720,"size":"262","metadata":{"time":1767014493720,"url":"http://registry.npm.taobao.org/long","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 13:21:53 GMT","location":"https://registry.npmmirror.com/long"},"options":{"compress":true},"status":301}}

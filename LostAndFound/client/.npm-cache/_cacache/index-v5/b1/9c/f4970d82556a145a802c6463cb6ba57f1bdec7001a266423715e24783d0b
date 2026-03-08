@@ -1,0 +1,2 @@
+
+287e7abc4e3bc1f7f3b6d534ac2d0515f2a2e446	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lodash.camelcase","integrity":null,"time":1766995930968,"size":"262","metadata":{"time":1766995930968,"url":"http://registry.npm.taobao.org/lodash.camelcase","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:31 GMT","location":"https://registry.npmmirror.com/lodash.camelcase"},"options":{"compress":true},"status":301}}

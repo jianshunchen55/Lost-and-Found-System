@@ -1,0 +1,2 @@
+
+f60c3305fdf89848fdb45204d2087e5023a0670a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/hash-sum","integrity":null,"time":1766995929260,"size":"262","metadata":{"time":1766995929260,"url":"http://registry.npm.taobao.org/hash-sum","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:29 GMT","location":"https://registry.npmmirror.com/hash-sum"},"options":{"compress":true},"status":301}}

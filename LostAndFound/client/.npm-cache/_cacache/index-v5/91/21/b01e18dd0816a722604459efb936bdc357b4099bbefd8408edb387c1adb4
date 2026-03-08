@@ -1,0 +1,2 @@
+
+003ec1c705681018db1b33d33b473d2318a51030	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-normalize-display-values","integrity":null,"time":1766995941512,"size":"262","metadata":{"time":1766995941512,"url":"http://registry.npm.taobao.org/postcss-normalize-display-values","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:41 GMT","location":"https://registry.npmmirror.com/postcss-normalize-display-values"},"options":{"compress":true},"status":301}}

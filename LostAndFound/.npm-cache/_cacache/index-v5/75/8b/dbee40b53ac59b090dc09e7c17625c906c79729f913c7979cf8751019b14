@@ -1,0 +1,2 @@
+
+ed828ffd38cadd488d2381b0e56beb7251ddff53	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/seq-queue","integrity":null,"time":1767014493720,"size":"262","metadata":{"time":1767014493720,"url":"http://registry.npm.taobao.org/seq-queue","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 13:21:53 GMT","location":"https://registry.npmmirror.com/seq-queue"},"options":{"compress":true},"status":301}}

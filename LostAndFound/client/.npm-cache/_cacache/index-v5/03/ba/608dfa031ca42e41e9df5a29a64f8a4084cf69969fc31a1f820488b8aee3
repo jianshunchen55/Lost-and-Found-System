@@ -1,0 +1,2 @@
+
+2697db05584559346e0af493d94be7721324590b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-normalize-charset","integrity":null,"time":1766995941410,"size":"262","metadata":{"time":1766995941410,"url":"http://registry.npm.taobao.org/postcss-normalize-charset","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:41 GMT","location":"https://registry.npmmirror.com/postcss-normalize-charset"},"options":{"compress":true},"status":301}}

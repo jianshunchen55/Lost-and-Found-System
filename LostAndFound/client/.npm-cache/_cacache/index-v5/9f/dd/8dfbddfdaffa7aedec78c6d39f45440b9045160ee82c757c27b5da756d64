@@ -1,0 +1,2 @@
+
+08b1d981e861ca9e25d096f6378141ebba2a950e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/parse5-htmlparser2-tree-adapter","integrity":null,"time":1766995938289,"size":"262","metadata":{"time":1766995938289,"url":"http://registry.npm.taobao.org/parse5-htmlparser2-tree-adapter","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/parse5-htmlparser2-tree-adapter"},"options":{"compress":true},"status":301}}

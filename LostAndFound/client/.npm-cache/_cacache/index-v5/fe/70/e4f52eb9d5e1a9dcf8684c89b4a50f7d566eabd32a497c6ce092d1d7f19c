@@ -1,0 +1,2 @@
+
+07a03684b323dceb178923b5f89eac2baa4526e8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lodash.foreach","integrity":null,"time":1766995931051,"size":"262","metadata":{"time":1766995931051,"url":"http://registry.npm.taobao.org/lodash.foreach","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:31 GMT","location":"https://registry.npmmirror.com/lodash.foreach"},"options":{"compress":true},"status":301}}

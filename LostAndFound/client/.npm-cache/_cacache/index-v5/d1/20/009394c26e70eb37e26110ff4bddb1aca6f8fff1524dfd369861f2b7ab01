@@ -1,0 +1,2 @@
+
+234aae75fdf5767250ee95fd1484a65bccae188b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/spdx-correct","integrity":null,"time":1766995945409,"size":"262","metadata":{"time":1766995945409,"url":"http://registry.npm.taobao.org/spdx-correct","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:45 GMT","location":"https://registry.npmmirror.com/spdx-correct"},"options":{"compress":true},"status":301}}

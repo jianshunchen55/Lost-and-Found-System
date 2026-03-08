@@ -1,0 +1,2 @@
+
+499cc958149f19466fb69d2cf11c5830ec08e987	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@humanwhocodes%2fmodule-importer","integrity":null,"time":1766995924153,"size":"262","metadata":{"time":1766995924153,"url":"http://registry.npm.taobao.org/@humanwhocodes%2fmodule-importer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:24 GMT","location":"https://registry.npmmirror.com/@humanwhocodes%2fmodule-importer"},"options":{"compress":true},"status":301}}

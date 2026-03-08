@@ -1,0 +1,2 @@
+
+d5cb41092caa8c739d56c6f8a34043acdc7de20c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lodash.mapvalues","integrity":null,"time":1766995929551,"size":"262","metadata":{"time":1766995929550,"url":"http://registry.npm.taobao.org/lodash.mapvalues","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:29 GMT","location":"https://registry.npmmirror.com/lodash.mapvalues"},"options":{"compress":true},"status":301}}

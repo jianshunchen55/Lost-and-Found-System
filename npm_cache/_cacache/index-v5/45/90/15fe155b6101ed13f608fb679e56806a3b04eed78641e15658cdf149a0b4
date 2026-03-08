@@ -1,0 +1,2 @@
+
+5848f32a7f8578c54ef57e4a1133e8d346fbb51b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/run-applescript","integrity":null,"time":1768135762765,"size":"262","metadata":{"time":1768135762765,"url":"http://registry.npm.taobao.org/run-applescript","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:23 GMT","location":"https://registry.npmmirror.com/run-applescript"},"options":{"compress":true},"status":301}}

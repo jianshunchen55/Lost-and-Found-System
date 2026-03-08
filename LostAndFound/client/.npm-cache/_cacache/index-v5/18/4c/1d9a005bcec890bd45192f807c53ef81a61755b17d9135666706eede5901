@@ -1,0 +1,2 @@
+
+094d085dd1646b89006c2a0a69942751a833090d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@humanwhocodes%2fconfig-array","integrity":null,"time":1766995924134,"size":"262","metadata":{"time":1766995924134,"url":"http://registry.npm.taobao.org/@humanwhocodes%2fconfig-array","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:24 GMT","location":"https://registry.npmmirror.com/@humanwhocodes%2fconfig-array"},"options":{"compress":true},"status":301}}

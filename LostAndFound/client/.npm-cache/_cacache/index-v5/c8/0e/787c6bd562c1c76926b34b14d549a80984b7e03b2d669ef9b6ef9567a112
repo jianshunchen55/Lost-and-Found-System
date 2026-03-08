@@ -1,0 +1,2 @@
+
+7412d9d2314a5f1d3607963b8f98d5453ed2654d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lines-and-columns","integrity":null,"time":1766995943286,"size":"262","metadata":{"time":1766995943286,"url":"http://registry.npm.taobao.org/lines-and-columns","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:43 GMT","location":"https://registry.npmmirror.com/lines-and-columns"},"options":{"compress":true},"status":301}}

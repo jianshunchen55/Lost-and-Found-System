@@ -1,0 +1,2 @@
+
+c10a3756c0ce872a2605f40cc023130c889a55de	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@vue%2fcli-plugin-vuex","integrity":null,"time":1766995927403,"size":"262","metadata":{"time":1766995927403,"url":"http://registry.npm.taobao.org/@vue%2fcli-plugin-vuex","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:27 GMT","location":"https://registry.npmmirror.com/@vue%2fcli-plugin-vuex"},"options":{"compress":true},"status":301}}

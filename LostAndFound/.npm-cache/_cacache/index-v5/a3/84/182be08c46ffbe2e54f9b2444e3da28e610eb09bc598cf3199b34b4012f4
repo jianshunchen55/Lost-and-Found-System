@@ -1,0 +1,2 @@
+
+98b3179157c683f9131492ec031a3caa0dad895a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@vue%2freactivity","integrity":null,"time":1767014524420,"size":"262","metadata":{"time":1767014524420,"url":"http://registry.npm.taobao.org/@vue%2freactivity","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 13:22:24 GMT","location":"https://registry.npmmirror.com/@vue%2freactivity"},"options":{"compress":true},"status":301}}

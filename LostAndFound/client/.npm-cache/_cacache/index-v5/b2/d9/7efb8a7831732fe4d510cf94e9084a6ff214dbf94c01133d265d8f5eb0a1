@@ -1,0 +1,2 @@
+
+1af10915e25d2ec4e8e214d0d8f3ced5d09ae77e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/launch-editor","integrity":null,"time":1766995932737,"size":"262","metadata":{"time":1766995932737,"url":"http://registry.npm.taobao.org/launch-editor","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:32 GMT","location":"https://registry.npmmirror.com/launch-editor"},"options":{"compress":true},"status":301}}

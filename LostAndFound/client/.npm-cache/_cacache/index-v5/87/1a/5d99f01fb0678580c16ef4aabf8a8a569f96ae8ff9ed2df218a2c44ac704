@@ -1,0 +1,2 @@
+
+42ae8849db14d0989f6330287c3a35b263d7660f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/merge-source-map","integrity":null,"time":1766995938158,"size":"262","metadata":{"time":1766995938158,"url":"http://registry.npm.taobao.org/merge-source-map","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/merge-source-map"},"options":{"compress":true},"status":301}}

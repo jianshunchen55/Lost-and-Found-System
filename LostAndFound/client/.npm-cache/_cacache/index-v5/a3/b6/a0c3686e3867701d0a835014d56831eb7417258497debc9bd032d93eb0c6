@@ -1,0 +1,2 @@
+
+551df52743b9801b39e0511cdf7263536eb8e3ce	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@sideway%2fpinpoint","integrity":null,"time":1766995939482,"size":"262","metadata":{"time":1766995939482,"url":"http://registry.npm.taobao.org/@sideway%2fpinpoint","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:39 GMT","location":"https://registry.npmmirror.com/@sideway%2fpinpoint"},"options":{"compress":true},"status":301}}

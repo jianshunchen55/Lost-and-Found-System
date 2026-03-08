@@ -1,0 +1,2 @@
+
+2fecd72761872cec8ed194811292cd3def35acc4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@webassemblyjs%2fieee754","integrity":null,"time":1766995946235,"size":"262","metadata":{"time":1766995946235,"url":"http://registry.npm.taobao.org/@webassemblyjs%2fieee754","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:46 GMT","location":"https://registry.npmmirror.com/@webassemblyjs%2fieee754"},"options":{"compress":true},"status":301}}

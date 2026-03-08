@@ -1,0 +1,2 @@
+
+cb1f5cdb4d26e37600e5e5e08ded3ae8413ca078	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/esquery","integrity":null,"time":1766995925050,"size":"262","metadata":{"time":1766995925050,"url":"http://registry.npm.taobao.org/esquery","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:25 GMT","location":"https://registry.npmmirror.com/esquery"},"options":{"compress":true},"status":301}}

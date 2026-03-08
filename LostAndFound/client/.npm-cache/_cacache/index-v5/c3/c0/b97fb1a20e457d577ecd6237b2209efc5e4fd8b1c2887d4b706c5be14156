@@ -1,0 +1,2 @@
+
+f765b9a9667996b75cbc1aa62650be2c61feebf1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/read-pkg-up","integrity":null,"time":1766995938659,"size":"262","metadata":{"time":1766995938659,"url":"http://registry.npm.taobao.org/read-pkg-up","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/read-pkg-up"},"options":{"compress":true},"status":301}}

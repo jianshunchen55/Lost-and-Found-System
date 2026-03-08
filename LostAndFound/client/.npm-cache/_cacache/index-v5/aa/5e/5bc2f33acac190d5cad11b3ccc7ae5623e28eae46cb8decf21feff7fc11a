@@ -1,0 +1,2 @@
+
+a01029447c71f8d1aefb2ebc86ea653a5fc7702d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/bonjour-service","integrity":null,"time":1766995938952,"size":"262","metadata":{"time":1766995938952,"url":"http://registry.npm.taobao.org/bonjour-service","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:39 GMT","location":"https://registry.npmmirror.com/bonjour-service"},"options":{"compress":true},"status":301}}

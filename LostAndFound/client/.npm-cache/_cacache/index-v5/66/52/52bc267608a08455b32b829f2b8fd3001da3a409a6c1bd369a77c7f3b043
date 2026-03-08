@@ -1,0 +1,2 @@
+
+1280bb76f197726ff890845215647d97799d755e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/yargs","integrity":null,"time":1766995938289,"size":"262","metadata":{"time":1766995938289,"url":"http://registry.npm.taobao.org/yargs","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/yargs"},"options":{"compress":true},"status":301}}

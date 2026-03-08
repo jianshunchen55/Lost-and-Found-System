@@ -1,0 +1,2 @@
+
+2774ed9c506fa54d6a609c95d2e2ba394f5e9f19	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lodash.isequal","integrity":null,"time":1766995931056,"size":"262","metadata":{"time":1766995931056,"url":"http://registry.npm.taobao.org/lodash.isequal","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:31 GMT","location":"https://registry.npmmirror.com/lodash.isequal"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+c9b0ffc82c1aa5ef80463f3dcd023661e281298c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/slate-history","integrity":null,"time":1766995940061,"size":"262","metadata":{"time":1766995940061,"url":"http://registry.npm.taobao.org/slate-history","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/slate-history"},"options":{"compress":true},"status":301}}

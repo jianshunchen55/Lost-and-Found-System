@@ -1,0 +1,2 @@
+
+cc41817841727262ec9fc51f14d92565a84c520f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-core-module","integrity":null,"time":1766995940992,"size":"262","metadata":{"time":1766995940992,"url":"http://registry.npm.taobao.org/is-core-module","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:41 GMT","location":"https://registry.npmmirror.com/is-core-module"},"options":{"compress":true},"status":301}}

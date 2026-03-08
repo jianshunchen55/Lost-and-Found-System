@@ -1,0 +1,2 @@
+
+dc8accef3861d8d77c27a1d0623be28ae6df9878	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/find-cache-dir","integrity":null,"time":1766995932948,"size":"262","metadata":{"time":1766995932948,"url":"http://registry.npm.taobao.org/find-cache-dir","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:33 GMT","location":"https://registry.npmmirror.com/find-cache-dir"},"options":{"compress":true},"status":301}}

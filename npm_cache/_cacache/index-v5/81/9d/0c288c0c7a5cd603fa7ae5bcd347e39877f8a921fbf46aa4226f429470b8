@@ -1,0 +1,2 @@
+
+c9daf0711f92b5ae9741b436810fedd8fb5f1a0c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cookie","integrity":null,"time":1768135760994,"size":"262","metadata":{"time":1768135760994,"url":"http://registry.npm.taobao.org/cookie","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:21 GMT","location":"https://registry.npmmirror.com/cookie"},"options":{"compress":true},"status":301}}

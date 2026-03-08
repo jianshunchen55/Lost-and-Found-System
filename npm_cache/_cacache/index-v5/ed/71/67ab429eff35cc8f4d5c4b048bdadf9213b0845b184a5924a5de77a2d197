@@ -1,0 +1,2 @@
+
+0e17010b5eb2860225d6e0b46f697510d74ae0f2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/merge-descriptors","integrity":null,"time":1768135761118,"size":"262","metadata":{"time":1768135761118,"url":"http://registry.npm.taobao.org/merge-descriptors","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:21 GMT","location":"https://registry.npmmirror.com/merge-descriptors"},"options":{"compress":true},"status":301}}

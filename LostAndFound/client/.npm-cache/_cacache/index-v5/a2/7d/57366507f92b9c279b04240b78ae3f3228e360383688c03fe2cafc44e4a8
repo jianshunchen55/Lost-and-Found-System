@@ -1,0 +1,2 @@
+
+dd52b133d4e32a64f902969a629515f724419e10	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/make-dir","integrity":null,"time":1766995932738,"size":"262","metadata":{"time":1766995932738,"url":"http://registry.npm.taobao.org/make-dir","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:32 GMT","location":"https://registry.npmmirror.com/make-dir"},"options":{"compress":true},"status":301}}

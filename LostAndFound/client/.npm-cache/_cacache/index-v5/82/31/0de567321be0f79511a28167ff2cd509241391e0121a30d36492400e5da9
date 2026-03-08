@@ -1,0 +1,2 @@
+
+d568817f2e25f025f3c6a2f5217b7c4302f1b7bf	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/randombytes","integrity":null,"time":1766995941289,"size":"262","metadata":{"time":1766995941289,"url":"http://registry.npm.taobao.org/randombytes","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:41 GMT","location":"https://registry.npmmirror.com/randombytes"},"options":{"compress":true},"status":301}}

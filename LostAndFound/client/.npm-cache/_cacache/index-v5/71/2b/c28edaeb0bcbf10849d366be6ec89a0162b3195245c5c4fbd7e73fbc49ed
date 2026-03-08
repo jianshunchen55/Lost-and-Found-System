@@ -1,0 +1,2 @@
+
+b87eea198fe1c958b51ee79d5c2cb15829e7f09d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-file-esm","integrity":null,"time":1766995929300,"size":"262","metadata":{"time":1766995929300,"url":"http://registry.npm.taobao.org/is-file-esm","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:29 GMT","location":"https://registry.npmmirror.com/is-file-esm"},"options":{"compress":true},"status":301}}

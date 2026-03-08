@@ -1,0 +1,2 @@
+
+c68f0aa86bd002ea4c14f51591bbbf68a625417e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ansi-styles","integrity":null,"time":1766995939325,"size":"262","metadata":{"time":1766995939325,"url":"http://registry.npm.taobao.org/ansi-styles","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:39 GMT","location":"https://registry.npmmirror.com/ansi-styles"},"options":{"compress":true},"status":301}}

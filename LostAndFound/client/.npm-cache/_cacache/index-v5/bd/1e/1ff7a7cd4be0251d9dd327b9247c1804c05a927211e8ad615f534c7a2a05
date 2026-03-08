@@ -1,0 +1,2 @@
+
+cd7c30bed86cd84912cb0cf29543a708de4333e6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/emojis-list","integrity":null,"time":1766995939946,"size":"262","metadata":{"time":1766995939946,"url":"http://registry.npm.taobao.org/emojis-list","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/emojis-list"},"options":{"compress":true},"status":301}}

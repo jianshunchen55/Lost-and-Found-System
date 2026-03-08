@@ -1,0 +1,2 @@
+
+cedd2033c313364a74058c4eac7cbcfde70b807c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/event-emitter","integrity":null,"time":1766995940060,"size":"262","metadata":{"time":1766995940060,"url":"http://registry.npm.taobao.org/event-emitter","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:40 GMT","location":"https://registry.npmmirror.com/event-emitter"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+f374ce2ed884618b04bd4b1833a0bce8918447c8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@vue%2freactivity-transform","integrity":null,"time":1766995945925,"size":"262","metadata":{"time":1766995945925,"url":"http://registry.npm.taobao.org/@vue%2freactivity-transform","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:46 GMT","location":"https://registry.npmmirror.com/@vue%2freactivity-transform"},"options":{"compress":true},"status":301}}

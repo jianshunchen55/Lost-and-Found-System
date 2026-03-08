@@ -1,0 +1,2 @@
+
+bb2fc128a9d50586b991514539b7f05ca56e6f06	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/gzip-size","integrity":null,"time":1766995938785,"size":"262","metadata":{"time":1766995938785,"url":"http://registry.npm.taobao.org/gzip-size","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:38 GMT","location":"https://registry.npmmirror.com/gzip-size"},"options":{"compress":true},"status":301}}

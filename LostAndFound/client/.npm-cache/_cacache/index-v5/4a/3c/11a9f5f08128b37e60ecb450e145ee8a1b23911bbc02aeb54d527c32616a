@@ -1,0 +1,2 @@
+
+115e3e1652fdc01aac49fbbc6d7ec45bef6b9c9c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/dns-packet","integrity":null,"time":1766995947475,"size":"262","metadata":{"time":1766995947475,"url":"http://registry.npm.taobao.org/dns-packet","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:47 GMT","location":"https://registry.npmmirror.com/dns-packet"},"options":{"compress":true},"status":301}}

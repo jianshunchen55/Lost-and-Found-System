@@ -1,0 +1,2 @@
+
+87a3b1345d60f7a59a7e33f6c6d4a17193419956	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@node-ipc%2fjs-queue","integrity":null,"time":1766995939475,"size":"262","metadata":{"time":1766995939475,"url":"http://registry.npm.taobao.org/@node-ipc%2fjs-queue","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:39 GMT","location":"https://registry.npmmirror.com/@node-ipc%2fjs-queue"},"options":{"compress":true},"status":301}}

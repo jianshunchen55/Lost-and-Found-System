@@ -1,0 +1,2 @@
+
+9fdd425a901f7f532a3c0bd4c37758e377cc750c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/imurmurhash","integrity":null,"time":1766995925639,"size":"262","metadata":{"time":1766995925639,"url":"http://registry.npm.taobao.org/imurmurhash","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:25 GMT","location":"https://registry.npmmirror.com/imurmurhash"},"options":{"compress":true},"status":301}}

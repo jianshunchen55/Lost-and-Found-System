@@ -1,0 +1,2 @@
+
+1b67a877b80969acb11299356b7fdfa28e6efa28	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fast-glob","integrity":null,"time":1766995932057,"size":"262","metadata":{"time":1766995932057,"url":"http://registry.npm.taobao.org/fast-glob","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:32 GMT","location":"https://registry.npmmirror.com/fast-glob"},"options":{"compress":true},"status":301}}

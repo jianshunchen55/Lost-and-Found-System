@@ -1,0 +1,2 @@
+
+2ad17cb1f6206517b9a3deb72957b9ddd2027619	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/hono","integrity":null,"time":1768135759975,"size":"262","metadata":{"time":1768135759975,"url":"http://registry.npm.taobao.org/hono","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sun, 11 Jan 2026 12:49:20 GMT","location":"https://registry.npmmirror.com/hono"},"options":{"compress":true},"status":301}}

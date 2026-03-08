@@ -1,0 +1,2 @@
+
+1af913f6b38566868772e12db62c64d13ba0e952	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/next-tick","integrity":null,"time":1766995942690,"size":"262","metadata":{"time":1766995942690,"url":"http://registry.npm.taobao.org/next-tick","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 29 Dec 2025 08:12:42 GMT","location":"https://registry.npmmirror.com/next-tick"},"options":{"compress":true},"status":301}}
