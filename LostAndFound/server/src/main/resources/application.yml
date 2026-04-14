@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/lostfound?useSSL=false&serverTimezone=UTC&useUnicode=true&characterEncoding=utf8
+    url: jdbc:mysql://localhost:3306/lostfound?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf8
     username: root
     password: 123456
     driver-class-name: com.mysql.cj.jdbc.Driver
@@ -13,8 +13,7 @@ spring:
       max-request-size: 50MB
   sql:
     init:
-      mode: always
-      schema-locations: classpath:schema.sql
+      mode: never
   jpa:
     hibernate:
       ddl-auto: update

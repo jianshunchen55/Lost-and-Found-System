@@ -42,9 +42,9 @@
               </template>
               <div style="text-align:center">
                  <p style="font-weight:bold;margin-bottom:12px">{{ row.publisherNickname }}</p>
-                 <div style="display:flex;justify-content:space-around">
+                 <div class="popover-actions">
                    <el-button size="small" type="primary" @click="openChat(row)">发送私信</el-button>
-                   <el-button size="small" type="success" @click="addFriend(row)">添加好友</el-button>
+                   <el-button size="small" class="add-friend-btn" @click="addFriend(row)">添加好友</el-button>
                  </div>
               </div>
             </el-popover>
@@ -387,5 +387,23 @@ function viewDetail(row: any) {
   :deep(.el-form-item__content) {
     justify-content: flex-end;
   }
+}
+
+.popover-actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.add-friend-btn {
+  color: #67c23a !important;
+  border-color: #67c23a !important;
+  background: #f0f9eb !important;
+}
+
+.add-friend-btn:hover {
+  color: #fff !important;
+  background: #67c23a !important;
+  border-color: #67c23a !important;
 }
 </style>

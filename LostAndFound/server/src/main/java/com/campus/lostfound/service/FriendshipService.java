@@ -143,6 +143,19 @@ public class FriendshipService {
         return true;
     }
 
+    public boolean deleteFriend(Long userId, Long friendId) {
+        Friendship f = friendshipMapper.selectOne(new QueryWrapper<Friendship>()
+            .eq("status", "ACCEPTED")
+            .and(w -> w.eq("requester_id", userId).eq("addressee_id", friendId)
+                .or()
+                .eq("requester_id", friendId).eq("addressee_id", userId)));
+        
+        if (f == null) return false;
+        
+        friendshipMapper.deleteById(f.getId());
+        return true;
+    }
+
     public List<FriendDto> getFriends(Long userId) {
         List<Friendship> friendships = friendshipMapper.selectList(new QueryWrapper<Friendship>()
             .and(w -> w.eq("status", "ACCEPTED"))

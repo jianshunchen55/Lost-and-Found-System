@@ -1,0 +1,259 @@
+<mxfile host="app.diagrams.net" modified="2026-03-20T00:00:00.000Z" agent="AI" version="21.0.0">
+  <diagram name="用例图" id="usecase-diagram">
+    <mxGraphModel dx="1400" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <!-- 标题 -->
+        <mxCell id="title" value="校园失物招领系统用例图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="30" width="500" height="40" as="geometry" />
+        </mxCell>
+
+        <!-- ========== 学生 Actor ========== -->
+        <mxCell id="student_actor" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#333333;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="40" height="80" as="geometry" />
+        </mxCell>
+
+        <!-- 学生用例 -->
+        <mxCell id="uc_reg" value="用户注册" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_login" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_publish_lost" value="发布失物" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_publish_found" value="发布拾物" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_browse_lost" value="浏览失物" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="280" y="470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_browse_found" value="浏览拾物" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_claim" value="发起认领" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_msg" value="查看消息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="280" y="710" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_profile" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="280" y="790" width="120" height="50" as="geometry" />
+        </mxCell>
+
+        <!-- 学生关联线 -->
+        <mxCell id="line_s1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="student_actor" target="uc_reg">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_s2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="student_actor" target="uc_login">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_s3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="student_actor" target="uc_publish_lost">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_s4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="student_actor" target="uc_publish_found">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_s5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="student_actor" target="uc_browse_lost">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_s6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="student_actor" target="uc_browse_found">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_s7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="student_actor" target="uc_claim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_s8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="student_actor" target="uc_msg">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_s9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="student_actor" target="uc_profile">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- ========== 负责人 Actor ========== -->
+        <mxCell id="manager_actor" value="负责人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#333333;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="700" y="150" width="40" height="80" as="geometry" />
+        </mxCell>
+
+        <!-- 负责人用例 -->
+        <mxCell id="muc_login" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="880" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="muc_audit_lost" value="失物审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="880" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="muc_audit_found" value="拾物审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="880" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="muc_audit_claim" value="认领审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="880" y="340" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="muc_browse_lost" value="浏览失物" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="880" y="420" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="muc_browse_found" value="浏览拾物" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="880" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="muc_notice" value="发布公告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="880" y="580" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="muc_msg" value="消息管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="880" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="muc_profile" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="880" y="740" width="120" height="50" as="geometry" />
+        </mxCell>
+
+        <!-- 负责人关联线 -->
+        <mxCell id="line_m1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="manager_actor" target="muc_login">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_m2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="manager_actor" target="muc_audit_lost">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_m3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="manager_actor" target="muc_audit_found">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_m4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="manager_actor" target="muc_audit_claim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_m5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="manager_actor" target="muc_browse_lost">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_m6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="manager_actor" target="muc_browse_found">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_m7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="manager_actor" target="muc_notice">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_m8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="manager_actor" target="muc_msg">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_m9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="manager_actor" target="muc_profile">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- ========== 管理员 Actor ========== -->
+        <mxCell id="admin_actor" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#333333;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1300" y="350" width="40" height="80" as="geometry" />
+        </mxCell>
+
+        <!-- 管理员用例 -->
+        <mxCell id="auc_login" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1100" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="auc_user" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1100" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="auc_lost" value="失物管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1100" y="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="auc_found" value="拾物管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1100" y="390" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="auc_claim" value="认领管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1100" y="470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="auc_config" value="系统配置" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1100" y="550" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="auc_notice" value="公告管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1100" y="630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="auc_map" value="地图管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1100" y="710" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="auc_stats" value="数据统计" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1100" y="790" width="120" height="50" as="geometry" />
+        </mxCell>
+
+        <!-- 管理员关联线 -->
+        <mxCell id="line_a1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="admin_actor" target="auc_login">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_a2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="admin_actor" target="auc_user">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_a3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="admin_actor" target="auc_lost">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_a4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="admin_actor" target="auc_found">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_a5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="admin_actor" target="auc_claim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_a6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="admin_actor" target="auc_config">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_a7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="admin_actor" target="auc_notice">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_a8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="admin_actor" target="auc_map">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="line_a9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0" edge="1" parent="1" source="admin_actor" target="auc_stats">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- 学生与负责人共用用例：浏览失物/拾物 -->
+        <mxCell id="share_browse_lost" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0;dashed=1" edge="1" parent="1" source="student_actor" target="muc_browse_lost">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="share_browse_found" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=none;endFill=0;dashed=1" edge="1" parent="1" source="student_actor" target="muc_browse_found">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- 包含关系：发布失物 <<include>> 图片上传 -->
+        <mxCell id="uc_upload" value="图片上传" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="include1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=classic;endFill=1;dashed=1" edge="1" parent="1" source="uc_publish_lost" target="uc_upload">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="include_label1" value="&lt;&lt;include&gt;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="410" y="305" width="60" height="20" as="geometry" />
+        </mxCell>
+
+        <!-- 包含关系：发布拾物 <<include>> 图片上传 -->
+        <mxCell id="include2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=classic;endFill=1;dashed=1" edge="1" parent="1" source="uc_publish_found" target="uc_upload">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- 包含关系：浏览失物 <<include>> 智能匹配 -->
+        <mxCell id="uc_match" value="智能匹配" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="480" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="include3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=classic;endFill=1;dashed=1" edge="1" parent="1" source="uc_browse_lost" target="uc_match">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="include_label2" value="&lt;&lt;include&gt;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="410" y="465" width="60" height="20" as="geometry" />
+        </mxCell>
+
+        <!-- 扩展关系：认领申请 <<extend>> 审核通过/驳回 -->
+        <mxCell id="uc_audit_result" value="审核结果通知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="480" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="extend1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=1;endArrow=classic;endFill=1;dashed=1" edge="1" parent="1" source="uc_audit_result" target="uc_claim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="extend_label1" value="&lt;&lt;extend&gt;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="410" y="625" width="60" height="20" as="geometry" />
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

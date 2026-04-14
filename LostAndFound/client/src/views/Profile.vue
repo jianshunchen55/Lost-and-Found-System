@@ -187,9 +187,14 @@
               </h4>
               <p>{{ friend.department || '暂无院系信息' }}</p>
             </div>
-            <button class="icon-btn chat">
-              <el-icon><ChatDotRound /></el-icon>
-            </button>
+            <div class="friend-actions-right">
+              <button class="icon-btn chat" title="聊天">
+                <el-icon><ChatDotRound /></el-icon>
+              </button>
+              <button class="icon-btn delete-friend" @click.stop="deleteFriend(friend, $event)" title="删除好友">
+                <el-icon><Delete /></el-icon>
+              </button>
+            </div>
           </div>
           <div v-if="friends.length===0" class="empty-state">
             <el-icon :size="48"><Connection /></el-icon>
@@ -257,7 +262,7 @@ import { ref, onMounted, computed, watch, nextTick, onUnmounted } from 'vue'
 import { useStore } from 'vuex'
 import { useRoute, useRouter } from 'vue-router'
 import { ElMessage } from 'element-plus'
-import { Edit, User as UserIcon, List, Goods, Lock, Connection, Camera, ChatDotRound } from '@element-plus/icons-vue'
+import { Edit, User as UserIcon, List, Goods, Lock, Connection, Camera, ChatDotRound, Delete } from '@element-plus/icons-vue'
 import http from '../api/http'
 import ImageCropper from '../components/ImageCropper.vue'
 
@@ -484,6 +489,24 @@ const saveRemark = async () => {
   } catch (e: any) {
     console.error(e)
     ElMessage.error(e.response?.data || '修改失败')
+  }
+}
+
+const deleteFriend = async (friend: any, event: Event) => {
+  if (!confirm(`确定要删除好友 "${friend.remark || friend.nickname || friend.username}" 吗？`)) return
+  try {
+    await http.delete(`/friend/${friend.id}`)
+    ElMessage.success('已删除好友')
+    friends.value = friends.value.filter(f => f.id !== friend.id)
+    
+    // If currently chatting with this friend, close chat
+    if (replyTarget.value && replyTarget.value.id === friend.id) {
+      replyVisible.value = false
+      replyTarget.value = null
+    }
+  } catch (e: any) {
+    console.error(e)
+    ElMessage.error(e.response?.data || '删除失败')
   }
 }
 
@@ -1216,6 +1239,31 @@ onMounted(() => {
 .icon-btn.chat:hover {
   background: #3b82f6;
   color: white;
+}
+
+.icon-btn.delete-friend {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  border: none;
+  background: #fef2f2;
+  color: #ef4444;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.icon-btn.delete-friend:hover {
+  background: #ef4444;
+  color: white;
+}
+
+.friend-actions-right {
+  display: flex;
+  gap: 6px;
+  align-items: center;
 }
 
 /* Animations */

@@ -117,4 +117,16 @@ public class FriendshipController {
             return ResponseEntity.ok(service.getFriends(user.getId()));
         }).orElse(ResponseEntity.status(401).build());
     }
+
+    @DeleteMapping("/{friendId}")
+    public ResponseEntity<?> deleteFriend(@AuthenticationPrincipal String username, @PathVariable Long friendId) {
+        return userRepository.findByUsername(username).map(user -> {
+            boolean success = service.deleteFriend(user.getId(), friendId);
+            if (success) {
+                return ResponseEntity.ok().build();
+            } else {
+                return ResponseEntity.badRequest().body("Friendship not found");
+            }
+        }).orElse(ResponseEntity.status(401).build());
+    }
 }
