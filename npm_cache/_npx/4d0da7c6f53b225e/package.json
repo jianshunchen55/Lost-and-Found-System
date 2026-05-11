@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "@next-ai-drawio/mcp-server": "^0.1.16"
+    "@next-ai-drawio/mcp-server": "^0.2.0"
+  },
+  "_npx": {
+    "packages": [
+      "@next-ai-drawio/mcp-server@latest"
+    ]
   }
 }
